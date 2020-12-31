@@ -130,20 +130,6 @@ def random_edge_sample(edges, droprate):
     sample_adj = sp.csr_matrix((np.ones(preserve_num), (sample_row, sample_col)), shape=(n,n))
     sample_adj = sample_adj + sample_adj.T.multiply(sample_adj.T>sample_adj) - sample_adj.multiply(sample_adj.T>sample_adj) + sp.eye(n)
     sample_adj = preprocess(sample_adj)
-    """
-    nnz = a.nnz
-    percent = 1. - droprate
-    perm = np.random.permutation(nnz)
-    preserve_nnz = int(nnz * percent)
-    perm = perm[: preserve_nnz]
-    r_adj = sp.coo_matrix((a.data[perm],
-                           (a.row[perm],
-                            a.col[perm])),
-                            shape=a.shape)
-     
-    print(r_adj.nnz, #a.nnz)
-    r_adj = preprocess(r_adj)
-    """
     return sample_adj                          
     
     
