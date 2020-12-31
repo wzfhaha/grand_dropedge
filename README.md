@@ -1,8 +1,7 @@
 # grand_dropedge
-Graph Random Neural Network with DropEdge as Augmentation Methods
 =======
 # grand
-This is the code of paper: Graph Random Neural Network
+This is the code of Graph Random Neural Network with DropEdge as Augmentation Method
 
 ## Requirements
 * Python 3.7.3
