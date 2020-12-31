@@ -19,4 +19,3 @@ This is the code of Graph Random Neural Network with DropEdge as Augmentation Me
 ## Running Environment 
 
 The experimental results reported in paper are conducted on a single NVIDIA GeForce RTX 2080 Ti with CUDA 10.0, which might be slightly inconsistent with the results induced by other platforms.
->>>>>>> master
