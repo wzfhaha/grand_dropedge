@@ -1,0 +1,1534 @@
+Epoch: 0001 loss_train: 1.8348 acc_train: 0.1750 loss_val: 1.8867 acc_val: 0.1380 time: 0.0840s
+0
+Epoch: 0002 loss_train: 1.8327 acc_train: 0.1667 loss_val: 1.8830 acc_val: 0.1360 time: 0.1258s
+0
+Epoch: 0003 loss_train: 1.8304 acc_train: 0.1750 loss_val: 1.8795 acc_val: 0.1340 time: 0.0755s
+0
+Epoch: 0004 loss_train: 1.8268 acc_train: 0.1917 loss_val: 1.8767 acc_val: 0.1220 time: 0.0674s
+0
+Epoch: 0005 loss_train: 1.8241 acc_train: 0.1917 loss_val: 1.8744 acc_val: 0.1180 time: 0.0718s
+0
+Epoch: 0006 loss_train: 1.8217 acc_train: 0.1750 loss_val: 1.8720 acc_val: 0.1000 time: 0.0738s
+0
+Epoch: 0007 loss_train: 1.8211 acc_train: 0.2333 loss_val: 1.8692 acc_val: 0.0920 time: 0.0734s
+0
+Epoch: 0008 loss_train: 1.8153 acc_train: 0.2083 loss_val: 1.8666 acc_val: 0.0860 time: 0.0736s
+0
+Epoch: 0009 loss_train: 1.8131 acc_train: 0.1667 loss_val: 1.8640 acc_val: 0.0880 time: 0.0709s
+0
+Epoch: 0010 loss_train: 1.8126 acc_train: 0.1583 loss_val: 1.8612 acc_val: 0.0920 time: 0.0670s
+0
+Epoch: 0011 loss_train: 1.8122 acc_train: 0.1333 loss_val: 1.8580 acc_val: 0.0960 time: 0.0740s
+0
+Epoch: 0012 loss_train: 1.8047 acc_train: 0.1917 loss_val: 1.8548 acc_val: 0.0980 time: 0.0664s
+0
+Epoch: 0013 loss_train: 1.8065 acc_train: 0.1250 loss_val: 1.8514 acc_val: 0.1020 time: 0.0748s
+0
+Epoch: 0014 loss_train: 1.7977 acc_train: 0.2000 loss_val: 1.8483 acc_val: 0.1060 time: 0.0755s
+0
+Epoch: 0015 loss_train: 1.7962 acc_train: 0.2167 loss_val: 1.8455 acc_val: 0.1100 time: 0.0716s
+0
+Epoch: 0016 loss_train: 1.7931 acc_train: 0.2083 loss_val: 1.8428 acc_val: 0.1100 time: 0.0722s
+0
+Epoch: 0017 loss_train: 1.7890 acc_train: 0.2167 loss_val: 1.8403 acc_val: 0.1100 time: 0.0758s
+0
+Epoch: 0018 loss_train: 1.7877 acc_train: 0.2583 loss_val: 1.8380 acc_val: 0.1020 time: 0.0788s
+0
+Epoch: 0019 loss_train: 1.7862 acc_train: 0.2417 loss_val: 1.8360 acc_val: 0.0800 time: 0.0732s
+0
+Epoch: 0020 loss_train: 1.7847 acc_train: 0.2000 loss_val: 1.8350 acc_val: 0.0720 time: 0.0740s
+0
+Epoch: 0021 loss_train: 1.7766 acc_train: 0.2167 loss_val: 1.8347 acc_val: 0.0640 time: 0.0689s
+0
+Epoch: 0022 loss_train: 1.7710 acc_train: 0.2083 loss_val: 1.8340 acc_val: 0.0640 time: 0.0712s
+0
+Epoch: 0023 loss_train: 1.7750 acc_train: 0.1917 loss_val: 1.8322 acc_val: 0.0620 time: 0.0675s
+0
+Epoch: 0024 loss_train: 1.7678 acc_train: 0.2083 loss_val: 1.8290 acc_val: 0.0620 time: 0.0710s
+0
+Epoch: 0025 loss_train: 1.7637 acc_train: 0.2250 loss_val: 1.8254 acc_val: 0.0620 time: 0.0729s
+0
+Epoch: 0026 loss_train: 1.7535 acc_train: 0.2417 loss_val: 1.8222 acc_val: 0.0620 time: 0.0788s
+0
+Epoch: 0027 loss_train: 1.7509 acc_train: 0.2583 loss_val: 1.8190 acc_val: 0.0620 time: 0.0725s
+0
+Epoch: 0028 loss_train: 1.7494 acc_train: 0.2083 loss_val: 1.8152 acc_val: 0.0620 time: 0.0800s
+0
+Epoch: 0029 loss_train: 1.7370 acc_train: 0.2167 loss_val: 1.8110 acc_val: 0.0620 time: 0.0786s
+0
+Epoch: 0030 loss_train: 1.7311 acc_train: 0.2250 loss_val: 1.8068 acc_val: 0.0620 time: 0.0732s
+0
+Epoch: 0031 loss_train: 1.7238 acc_train: 0.2500 loss_val: 1.8023 acc_val: 0.0660 time: 0.0840s
+0
+Epoch: 0032 loss_train: 1.7124 acc_train: 0.2750 loss_val: 1.7983 acc_val: 0.0660 time: 0.0865s
+0
+Epoch: 0033 loss_train: 1.7070 acc_train: 0.2750 loss_val: 1.7946 acc_val: 0.0640 time: 0.0869s
+0
+Epoch: 0034 loss_train: 1.7043 acc_train: 0.2583 loss_val: 1.7910 acc_val: 0.0640 time: 0.0854s
+0
+Epoch: 0035 loss_train: 1.6892 acc_train: 0.2917 loss_val: 1.7871 acc_val: 0.0640 time: 0.0880s
+0
+Epoch: 0036 loss_train: 1.6790 acc_train: 0.3083 loss_val: 1.7817 acc_val: 0.0680 time: 0.0920s
+0
+Epoch: 0037 loss_train: 1.6864 acc_train: 0.2667 loss_val: 1.7750 acc_val: 0.0740 time: 0.0824s
+0
+Epoch: 0038 loss_train: 1.6673 acc_train: 0.3417 loss_val: 1.7671 acc_val: 0.0900 time: 0.0702s
+0
+Epoch: 0039 loss_train: 1.6558 acc_train: 0.3583 loss_val: 1.7587 acc_val: 0.1120 time: 0.0715s
+0
+Epoch: 0040 loss_train: 1.6428 acc_train: 0.4583 loss_val: 1.7509 acc_val: 0.1420 time: 0.0728s
+0
+Epoch: 0041 loss_train: 1.6349 acc_train: 0.4167 loss_val: 1.7438 acc_val: 0.1700 time: 0.0718s
+0
+Epoch: 0042 loss_train: 1.6285 acc_train: 0.4583 loss_val: 1.7365 acc_val: 0.2060 time: 0.0897s
+0
+Epoch: 0043 loss_train: 1.6012 acc_train: 0.5000 loss_val: 1.7294 acc_val: 0.2760 time: 0.0926s
+0
+Epoch: 0044 loss_train: 1.5971 acc_train: 0.4167 loss_val: 1.7224 acc_val: 0.3300 time: 0.0916s
+0
+Epoch: 0045 loss_train: 1.5627 acc_train: 0.5417 loss_val: 1.7151 acc_val: 0.3900 time: 0.0977s
+0
+Epoch: 0046 loss_train: 1.5802 acc_train: 0.4917 loss_val: 1.7069 acc_val: 0.4600 time: 0.0934s
+0
+Epoch: 0047 loss_train: 1.5542 acc_train: 0.4750 loss_val: 1.6980 acc_val: 0.5480 time: 0.0921s
+0
+Epoch: 0048 loss_train: 1.5242 acc_train: 0.6167 loss_val: 1.6897 acc_val: 0.5820 time: 0.0887s
+0
+Epoch: 0049 loss_train: 1.5163 acc_train: 0.6083 loss_val: 1.6817 acc_val: 0.5960 time: 0.0922s
+0
+Epoch: 0050 loss_train: 1.4966 acc_train: 0.6333 loss_val: 1.6738 acc_val: 0.6040 time: 0.0971s
+0
+Epoch: 0051 loss_train: 1.4768 acc_train: 0.6000 loss_val: 1.6655 acc_val: 0.6060 time: 0.0789s
+0
+Epoch: 0052 loss_train: 1.4431 acc_train: 0.6583 loss_val: 1.6571 acc_val: 0.6040 time: 0.0698s
+0
+Epoch: 0053 loss_train: 1.4568 acc_train: 0.5750 loss_val: 1.6496 acc_val: 0.6040 time: 0.0750s
+0
+Epoch: 0054 loss_train: 1.4229 acc_train: 0.6167 loss_val: 1.6422 acc_val: 0.5980 time: 0.0850s
+0
+Epoch: 0055 loss_train: 1.4234 acc_train: 0.5583 loss_val: 1.6343 acc_val: 0.6020 time: 0.0981s
+0
+Epoch: 0056 loss_train: 1.4120 acc_train: 0.7000 loss_val: 1.6262 acc_val: 0.6060 time: 0.0737s
+0
+Epoch: 0057 loss_train: 1.3767 acc_train: 0.6000 loss_val: 1.6181 acc_val: 0.6060 time: 0.0846s
+0
+Epoch: 0058 loss_train: 1.3690 acc_train: 0.6083 loss_val: 1.6085 acc_val: 0.6200 time: 0.0745s
+0
+Epoch: 0059 loss_train: 1.3550 acc_train: 0.7333 loss_val: 1.5988 acc_val: 0.6280 time: 0.0981s
+0
+Epoch: 0060 loss_train: 1.3564 acc_train: 0.7167 loss_val: 1.5887 acc_val: 0.6460 time: 0.0718s
+0
+Epoch: 0061 loss_train: 1.3065 acc_train: 0.6500 loss_val: 1.5788 acc_val: 0.6600 time: 0.0727s
+0
+Epoch: 0062 loss_train: 1.3159 acc_train: 0.6750 loss_val: 1.5689 acc_val: 0.6660 time: 0.0812s
+0
+Epoch: 0063 loss_train: 1.2704 acc_train: 0.7167 loss_val: 1.5598 acc_val: 0.6780 time: 0.0810s
+0
+Epoch: 0064 loss_train: 1.2204 acc_train: 0.8083 loss_val: 1.5485 acc_val: 0.6860 time: 0.0744s
+0
+Epoch: 0065 loss_train: 1.2012 acc_train: 0.8167 loss_val: 1.5376 acc_val: 0.6860 time: 0.0747s
+0
+Epoch: 0066 loss_train: 1.2369 acc_train: 0.7500 loss_val: 1.5259 acc_val: 0.6960 time: 0.0709s
+0
+Epoch: 0067 loss_train: 1.2140 acc_train: 0.7167 loss_val: 1.5138 acc_val: 0.6980 time: 0.0670s
+0
+Epoch: 0068 loss_train: 1.1822 acc_train: 0.7833 loss_val: 1.5016 acc_val: 0.7020 time: 0.0711s
+0
+Epoch: 0069 loss_train: 1.1458 acc_train: 0.7750 loss_val: 1.4903 acc_val: 0.7020 time: 0.0702s
+0
+Epoch: 0070 loss_train: 1.1591 acc_train: 0.7083 loss_val: 1.4786 acc_val: 0.7020 time: 0.0656s
+0
+Epoch: 0071 loss_train: 1.1403 acc_train: 0.6667 loss_val: 1.4680 acc_val: 0.7020 time: 0.0680s
+0
+Epoch: 0072 loss_train: 1.1653 acc_train: 0.7333 loss_val: 1.4572 acc_val: 0.6980 time: 0.0742s
+0
+Epoch: 0073 loss_train: 1.0845 acc_train: 0.7833 loss_val: 1.4463 acc_val: 0.7000 time: 0.0724s
+0
+Epoch: 0074 loss_train: 1.1465 acc_train: 0.8167 loss_val: 1.4359 acc_val: 0.7000 time: 0.0700s
+0
+Epoch: 0075 loss_train: 1.0445 acc_train: 0.8417 loss_val: 1.4269 acc_val: 0.6960 time: 0.0677s
+0
+Epoch: 0076 loss_train: 1.0828 acc_train: 0.7333 loss_val: 1.4175 acc_val: 0.7020 time: 0.0740s
+0
+Epoch: 0077 loss_train: 1.0451 acc_train: 0.7917 loss_val: 1.4078 acc_val: 0.7000 time: 0.0744s
+0
+Epoch: 0078 loss_train: 1.0226 acc_train: 0.8167 loss_val: 1.3984 acc_val: 0.7020 time: 0.0740s
+0
+Epoch: 0079 loss_train: 1.0056 acc_train: 0.7667 loss_val: 1.3882 acc_val: 0.7000 time: 0.0733s
+0
+Epoch: 0080 loss_train: 1.0318 acc_train: 0.7500 loss_val: 1.3776 acc_val: 0.7020 time: 0.0744s
+0
+Epoch: 0081 loss_train: 1.0409 acc_train: 0.7500 loss_val: 1.3660 acc_val: 0.7020 time: 0.0755s
+0
+Epoch: 0082 loss_train: 0.9795 acc_train: 0.7833 loss_val: 1.3551 acc_val: 0.7080 time: 0.0730s
+0
+Epoch: 0083 loss_train: 0.9536 acc_train: 0.7917 loss_val: 1.3455 acc_val: 0.7080 time: 0.0730s
+0
+Epoch: 0084 loss_train: 0.9480 acc_train: 0.7667 loss_val: 1.3375 acc_val: 0.7140 time: 0.0738s
+0
+Epoch: 0085 loss_train: 0.9696 acc_train: 0.7583 loss_val: 1.3285 acc_val: 0.7140 time: 0.0707s
+0
+Epoch: 0086 loss_train: 0.9543 acc_train: 0.7583 loss_val: 1.3182 acc_val: 0.7160 time: 0.0758s
+0
+Epoch: 0087 loss_train: 0.8977 acc_train: 0.8167 loss_val: 1.3084 acc_val: 0.7140 time: 0.0721s
+0
+Epoch: 0088 loss_train: 0.9323 acc_train: 0.7667 loss_val: 1.2993 acc_val: 0.7100 time: 0.0694s
+0
+Epoch: 0089 loss_train: 0.9252 acc_train: 0.8333 loss_val: 1.2899 acc_val: 0.7140 time: 0.0696s
+0
+Epoch: 0090 loss_train: 0.9238 acc_train: 0.7833 loss_val: 1.2817 acc_val: 0.7100 time: 0.0653s
+0
+Epoch: 0091 loss_train: 0.8776 acc_train: 0.8083 loss_val: 1.2743 acc_val: 0.7080 time: 0.0734s
+0
+Epoch: 0092 loss_train: 0.8695 acc_train: 0.8417 loss_val: 1.2666 acc_val: 0.7060 time: 0.0714s
+0
+Epoch: 0093 loss_train: 0.8734 acc_train: 0.8250 loss_val: 1.2580 acc_val: 0.7020 time: 0.0729s
+0
+Epoch: 0094 loss_train: 0.8358 acc_train: 0.8250 loss_val: 1.2494 acc_val: 0.7060 time: 0.0753s
+0
+Epoch: 0095 loss_train: 0.8444 acc_train: 0.8333 loss_val: 1.2423 acc_val: 0.7100 time: 0.0766s
+0
+Epoch: 0096 loss_train: 0.8718 acc_train: 0.8000 loss_val: 1.2345 acc_val: 0.7120 time: 0.1000s
+0
+Epoch: 0097 loss_train: 0.8265 acc_train: 0.8250 loss_val: 1.2264 acc_val: 0.7060 time: 0.0729s
+0
+Epoch: 0098 loss_train: 0.8484 acc_train: 0.8250 loss_val: 1.2178 acc_val: 0.7020 time: 0.0745s
+0
+Epoch: 0099 loss_train: 0.8163 acc_train: 0.8583 loss_val: 1.2098 acc_val: 0.7000 time: 0.0743s
+0
+Epoch: 0100 loss_train: 0.8089 acc_train: 0.8667 loss_val: 1.2023 acc_val: 0.6960 time: 0.0784s
+0
+Epoch: 0101 loss_train: 0.7934 acc_train: 0.8583 loss_val: 1.1940 acc_val: 0.6980 time: 0.0758s
+0
+Epoch: 0102 loss_train: 0.8238 acc_train: 0.8750 loss_val: 1.1854 acc_val: 0.7020 time: 0.0885s
+0
+Epoch: 0103 loss_train: 0.7947 acc_train: 0.8917 loss_val: 1.1783 acc_val: 0.7040 time: 0.1023s
+0
+Epoch: 0104 loss_train: 0.7801 acc_train: 0.8333 loss_val: 1.1721 acc_val: 0.7120 time: 0.0916s
+0
+Epoch: 0105 loss_train: 0.7937 acc_train: 0.8333 loss_val: 1.1673 acc_val: 0.7160 time: 0.0752s
+0
+Epoch: 0106 loss_train: 0.7773 acc_train: 0.8833 loss_val: 1.1627 acc_val: 0.7180 time: 0.0807s
+0
+Epoch: 0107 loss_train: 0.7364 acc_train: 0.9167 loss_val: 1.1574 acc_val: 0.7220 time: 0.0741s
+0
+Epoch: 0108 loss_train: 0.7701 acc_train: 0.9083 loss_val: 1.1509 acc_val: 0.7160 time: 0.0724s
+0
+Epoch: 0109 loss_train: 0.7471 acc_train: 0.8667 loss_val: 1.1443 acc_val: 0.7080 time: 0.0811s
+0
+Epoch: 0110 loss_train: 0.7463 acc_train: 0.8417 loss_val: 1.1380 acc_val: 0.7080 time: 0.0966s
+0
+Epoch: 0111 loss_train: 0.7486 acc_train: 0.8750 loss_val: 1.1315 acc_val: 0.7040 time: 0.0991s
+0
+Epoch: 0112 loss_train: 0.7273 acc_train: 0.8667 loss_val: 1.1256 acc_val: 0.7020 time: 0.0846s
+0
+Epoch: 0113 loss_train: 0.7348 acc_train: 0.8500 loss_val: 1.1194 acc_val: 0.7060 time: 0.0889s
+0
+Epoch: 0114 loss_train: 0.7459 acc_train: 0.8750 loss_val: 1.1133 acc_val: 0.7140 time: 0.0825s
+0
+Epoch: 0115 loss_train: 0.7179 acc_train: 0.8083 loss_val: 1.1067 acc_val: 0.7200 time: 0.1001s
+0
+Epoch: 0116 loss_train: 0.7304 acc_train: 0.8333 loss_val: 1.1026 acc_val: 0.7220 time: 0.0801s
+0
+Epoch: 0117 loss_train: 0.7433 acc_train: 0.9083 loss_val: 1.0998 acc_val: 0.7200 time: 0.0799s
+0
+Epoch: 0118 loss_train: 0.7157 acc_train: 0.9083 loss_val: 1.0952 acc_val: 0.7200 time: 0.0817s
+0
+Epoch: 0119 loss_train: 0.7089 acc_train: 0.9083 loss_val: 1.0883 acc_val: 0.7220 time: 0.0783s
+0
+Epoch: 0120 loss_train: 0.6988 acc_train: 0.8667 loss_val: 1.0808 acc_val: 0.7220 time: 0.0754s
+0
+Epoch: 0121 loss_train: 0.7000 acc_train: 0.8667 loss_val: 1.0736 acc_val: 0.7200 time: 0.0726s
+0
+Epoch: 0122 loss_train: 0.6928 acc_train: 0.8917 loss_val: 1.0695 acc_val: 0.7180 time: 0.0836s
+0
+Epoch: 0123 loss_train: 0.6870 acc_train: 0.8833 loss_val: 1.0655 acc_val: 0.7180 time: 0.0772s
+0
+Epoch: 0124 loss_train: 0.7256 acc_train: 0.8583 loss_val: 1.0638 acc_val: 0.7140 time: 0.0807s
+0
+Epoch: 0125 loss_train: 0.7024 acc_train: 0.9083 loss_val: 1.0618 acc_val: 0.7060 time: 0.0814s
+0
+Epoch: 0126 loss_train: 0.6746 acc_train: 0.8833 loss_val: 1.0586 acc_val: 0.7100 time: 0.0814s
+0
+Epoch: 0127 loss_train: 0.6599 acc_train: 0.9250 loss_val: 1.0544 acc_val: 0.7120 time: 0.0788s
+0
+Epoch: 0128 loss_train: 0.6749 acc_train: 0.8750 loss_val: 1.0495 acc_val: 0.7120 time: 0.0736s
+0
+Epoch: 0129 loss_train: 0.6680 acc_train: 0.8583 loss_val: 1.0437 acc_val: 0.7120 time: 0.0745s
+0
+Epoch: 0130 loss_train: 0.6847 acc_train: 0.8417 loss_val: 1.0365 acc_val: 0.7160 time: 0.0754s
+0
+Epoch: 0131 loss_train: 0.6583 acc_train: 0.8750 loss_val: 1.0298 acc_val: 0.7220 time: 0.0741s
+0
+Epoch: 0132 loss_train: 0.6545 acc_train: 0.8917 loss_val: 1.0233 acc_val: 0.7220 time: 0.0765s
+0
+Epoch: 0133 loss_train: 0.6701 acc_train: 0.8750 loss_val: 1.0185 acc_val: 0.7220 time: 0.0761s
+0
+Epoch: 0134 loss_train: 0.6685 acc_train: 0.8667 loss_val: 1.0160 acc_val: 0.7220 time: 0.0806s
+0
+Epoch: 0135 loss_train: 0.6621 acc_train: 0.8833 loss_val: 1.0149 acc_val: 0.7240 time: 0.0806s
+0
+Epoch: 0136 loss_train: 0.6866 acc_train: 0.8917 loss_val: 1.0155 acc_val: 0.7220 time: 0.0757s
+0
+Epoch: 0137 loss_train: 0.6675 acc_train: 0.9083 loss_val: 1.0157 acc_val: 0.7160 time: 0.0735s
+1
+Epoch: 0138 loss_train: 0.6305 acc_train: 0.9000 loss_val: 1.0143 acc_val: 0.7140 time: 0.0964s
+2
+Epoch: 0139 loss_train: 0.6387 acc_train: 0.9250 loss_val: 1.0094 acc_val: 0.7120 time: 0.0850s
+0
+Epoch: 0140 loss_train: 0.6249 acc_train: 0.8917 loss_val: 1.0018 acc_val: 0.7160 time: 0.0737s
+0
+Epoch: 0141 loss_train: 0.6314 acc_train: 0.9167 loss_val: 0.9936 acc_val: 0.7260 time: 0.0770s
+0
+Epoch: 0142 loss_train: 0.6408 acc_train: 0.8917 loss_val: 0.9859 acc_val: 0.7240 time: 0.0682s
+0
+Epoch: 0143 loss_train: 0.5674 acc_train: 0.9250 loss_val: 0.9803 acc_val: 0.7240 time: 0.0700s
+0
+Epoch: 0144 loss_train: 0.5988 acc_train: 0.9083 loss_val: 0.9765 acc_val: 0.7300 time: 0.0751s
+0
+Epoch: 0145 loss_train: 0.6335 acc_train: 0.9000 loss_val: 0.9757 acc_val: 0.7240 time: 0.0754s
+0
+Epoch: 0146 loss_train: 0.6473 acc_train: 0.9000 loss_val: 0.9756 acc_val: 0.7220 time: 0.0843s
+0
+Epoch: 0147 loss_train: 0.6490 acc_train: 0.9167 loss_val: 0.9757 acc_val: 0.7220 time: 0.0981s
+0
+Epoch: 0148 loss_train: 0.6343 acc_train: 0.8833 loss_val: 0.9751 acc_val: 0.7180 time: 0.0961s
+1
+Epoch: 0149 loss_train: 0.5969 acc_train: 0.8833 loss_val: 0.9736 acc_val: 0.7240 time: 0.0818s
+0
+Epoch: 0150 loss_train: 0.6053 acc_train: 0.9083 loss_val: 0.9703 acc_val: 0.7200 time: 0.0810s
+0
+Epoch: 0151 loss_train: 0.5861 acc_train: 0.9167 loss_val: 0.9658 acc_val: 0.7200 time: 0.0787s
+0
+Epoch: 0152 loss_train: 0.6170 acc_train: 0.8917 loss_val: 0.9614 acc_val: 0.7220 time: 0.0852s
+0
+Epoch: 0153 loss_train: 0.5884 acc_train: 0.9167 loss_val: 0.9556 acc_val: 0.7180 time: 0.0782s
+0
+Epoch: 0154 loss_train: 0.5949 acc_train: 0.9000 loss_val: 0.9510 acc_val: 0.7160 time: 0.0813s
+0
+Epoch: 0155 loss_train: 0.6076 acc_train: 0.9167 loss_val: 0.9491 acc_val: 0.7180 time: 0.0803s
+0
+Epoch: 0156 loss_train: 0.6120 acc_train: 0.8917 loss_val: 0.9467 acc_val: 0.7180 time: 0.0806s
+0
+Epoch: 0157 loss_train: 0.5915 acc_train: 0.9250 loss_val: 0.9431 acc_val: 0.7220 time: 0.0802s
+0
+Epoch: 0158 loss_train: 0.5771 acc_train: 0.8917 loss_val: 0.9397 acc_val: 0.7260 time: 0.0740s
+0
+Epoch: 0159 loss_train: 0.5561 acc_train: 0.8917 loss_val: 0.9381 acc_val: 0.7240 time: 0.0751s
+0
+Epoch: 0160 loss_train: 0.5675 acc_train: 0.9417 loss_val: 0.9380 acc_val: 0.7260 time: 0.1011s
+0
+Epoch: 0161 loss_train: 0.5486 acc_train: 0.9417 loss_val: 0.9368 acc_val: 0.7200 time: 0.0698s
+0
+Epoch: 0162 loss_train: 0.5814 acc_train: 0.9000 loss_val: 0.9349 acc_val: 0.7220 time: 0.0811s
+0
+Epoch: 0163 loss_train: 0.5750 acc_train: 0.8667 loss_val: 0.9304 acc_val: 0.7260 time: 0.1029s
+0
+Epoch: 0164 loss_train: 0.5726 acc_train: 0.8833 loss_val: 0.9253 acc_val: 0.7300 time: 0.0699s
+0
+Epoch: 0165 loss_train: 0.5622 acc_train: 0.9167 loss_val: 0.9204 acc_val: 0.7320 time: 0.0737s
+0
+Epoch: 0166 loss_train: 0.5817 acc_train: 0.9000 loss_val: 0.9167 acc_val: 0.7340 time: 0.0712s
+0
+Epoch: 0167 loss_train: 0.5394 acc_train: 0.9167 loss_val: 0.9143 acc_val: 0.7380 time: 0.1060s
+0
+Epoch: 0168 loss_train: 0.5762 acc_train: 0.8917 loss_val: 0.9142 acc_val: 0.7400 time: 0.0860s
+0
+Epoch: 0169 loss_train: 0.5722 acc_train: 0.9167 loss_val: 0.9149 acc_val: 0.7340 time: 0.0717s
+0
+Epoch: 0170 loss_train: 0.5574 acc_train: 0.8667 loss_val: 0.9154 acc_val: 0.7300 time: 0.0733s
+1
+Epoch: 0171 loss_train: 0.5578 acc_train: 0.9333 loss_val: 0.9156 acc_val: 0.7260 time: 0.0795s
+2
+Epoch: 0172 loss_train: 0.5298 acc_train: 0.9500 loss_val: 0.9140 acc_val: 0.7240 time: 0.0894s
+3
+Epoch: 0173 loss_train: 0.5581 acc_train: 0.9417 loss_val: 0.9099 acc_val: 0.7280 time: 0.0783s
+0
+Epoch: 0174 loss_train: 0.5559 acc_train: 0.9250 loss_val: 0.9062 acc_val: 0.7280 time: 0.0756s
+0
+Epoch: 0175 loss_train: 0.5243 acc_train: 0.9333 loss_val: 0.9027 acc_val: 0.7320 time: 0.0896s
+0
+Epoch: 0176 loss_train: 0.5561 acc_train: 0.9417 loss_val: 0.9003 acc_val: 0.7340 time: 0.0853s
+0
+Epoch: 0177 loss_train: 0.5319 acc_train: 0.9417 loss_val: 0.8998 acc_val: 0.7300 time: 0.0749s
+0
+Epoch: 0178 loss_train: 0.5328 acc_train: 0.9667 loss_val: 0.8991 acc_val: 0.7300 time: 0.0676s
+0
+Epoch: 0179 loss_train: 0.5406 acc_train: 0.9083 loss_val: 0.8983 acc_val: 0.7240 time: 0.0710s
+0
+Epoch: 0180 loss_train: 0.5190 acc_train: 0.9417 loss_val: 0.8972 acc_val: 0.7240 time: 0.0827s
+0
+Epoch: 0181 loss_train: 0.5283 acc_train: 0.9167 loss_val: 0.8951 acc_val: 0.7280 time: 0.0750s
+0
+Epoch: 0182 loss_train: 0.5019 acc_train: 0.9500 loss_val: 0.8932 acc_val: 0.7300 time: 0.0728s
+0
+Epoch: 0183 loss_train: 0.5295 acc_train: 0.9250 loss_val: 0.8917 acc_val: 0.7280 time: 0.0877s
+0
+Epoch: 0184 loss_train: 0.4913 acc_train: 0.9250 loss_val: 0.8885 acc_val: 0.7340 time: 0.0940s
+0
+Epoch: 0185 loss_train: 0.5056 acc_train: 0.9250 loss_val: 0.8865 acc_val: 0.7360 time: 0.0913s
+0
+Epoch: 0186 loss_train: 0.5145 acc_train: 0.8917 loss_val: 0.8838 acc_val: 0.7360 time: 0.1029s
+0
+Epoch: 0187 loss_train: 0.5088 acc_train: 0.9583 loss_val: 0.8807 acc_val: 0.7380 time: 0.0871s
+0
+Epoch: 0188 loss_train: 0.5216 acc_train: 0.9000 loss_val: 0.8789 acc_val: 0.7340 time: 0.0939s
+0
+Epoch: 0189 loss_train: 0.5041 acc_train: 0.9167 loss_val: 0.8787 acc_val: 0.7320 time: 0.1002s
+0
+Epoch: 0190 loss_train: 0.5041 acc_train: 0.9917 loss_val: 0.8781 acc_val: 0.7340 time: 0.0924s
+0
+Epoch: 0191 loss_train: 0.4910 acc_train: 0.9500 loss_val: 0.8766 acc_val: 0.7340 time: 0.0750s
+0
+Epoch: 0192 loss_train: 0.4565 acc_train: 0.9583 loss_val: 0.8728 acc_val: 0.7320 time: 0.0795s
+0
+Epoch: 0193 loss_train: 0.4859 acc_train: 0.9500 loss_val: 0.8694 acc_val: 0.7320 time: 0.0761s
+0
+Epoch: 0194 loss_train: 0.5006 acc_train: 0.9250 loss_val: 0.8681 acc_val: 0.7320 time: 0.0741s
+0
+Epoch: 0195 loss_train: 0.5138 acc_train: 0.9083 loss_val: 0.8688 acc_val: 0.7340 time: 0.0752s
+0
+Epoch: 0196 loss_train: 0.5023 acc_train: 0.9500 loss_val: 0.8695 acc_val: 0.7340 time: 0.0820s
+1
+Epoch: 0197 loss_train: 0.4902 acc_train: 0.9500 loss_val: 0.8704 acc_val: 0.7320 time: 0.1090s
+2
+Epoch: 0198 loss_train: 0.5238 acc_train: 0.9250 loss_val: 0.8701 acc_val: 0.7320 time: 0.0827s
+3
+Epoch: 0199 loss_train: 0.4654 acc_train: 0.9583 loss_val: 0.8692 acc_val: 0.7320 time: 0.0827s
+4
+Epoch: 0200 loss_train: 0.4958 acc_train: 0.9417 loss_val: 0.8663 acc_val: 0.7340 time: 0.0758s
+5
+Epoch: 0201 loss_train: 0.5039 acc_train: 0.9500 loss_val: 0.8638 acc_val: 0.7340 time: 0.0781s
+0
+Epoch: 0202 loss_train: 0.4717 acc_train: 0.9750 loss_val: 0.8619 acc_val: 0.7360 time: 0.0804s
+0
+Epoch: 0203 loss_train: 0.4516 acc_train: 0.9500 loss_val: 0.8604 acc_val: 0.7360 time: 0.0818s
+0
+Epoch: 0204 loss_train: 0.5065 acc_train: 0.9333 loss_val: 0.8603 acc_val: 0.7360 time: 0.0916s
+0
+Epoch: 0205 loss_train: 0.4930 acc_train: 0.9500 loss_val: 0.8606 acc_val: 0.7360 time: 0.0812s
+0
+Epoch: 0206 loss_train: 0.4865 acc_train: 0.9417 loss_val: 0.8618 acc_val: 0.7360 time: 0.0834s
+1
+Epoch: 0207 loss_train: 0.4975 acc_train: 0.9083 loss_val: 0.8633 acc_val: 0.7360 time: 0.0753s
+2
+Epoch: 0208 loss_train: 0.4706 acc_train: 0.9750 loss_val: 0.8625 acc_val: 0.7320 time: 0.0773s
+3
+Epoch: 0209 loss_train: 0.4736 acc_train: 0.9583 loss_val: 0.8623 acc_val: 0.7320 time: 0.0947s
+4
+Epoch: 0210 loss_train: 0.4900 acc_train: 0.9250 loss_val: 0.8607 acc_val: 0.7320 time: 0.0847s
+5
+Epoch: 0211 loss_train: 0.4879 acc_train: 0.9083 loss_val: 0.8600 acc_val: 0.7380 time: 0.1590s
+6
+Epoch: 0212 loss_train: 0.4741 acc_train: 0.9833 loss_val: 0.8590 acc_val: 0.7380 time: 0.1181s
+0
+Epoch: 0213 loss_train: 0.4900 acc_train: 0.9417 loss_val: 0.8576 acc_val: 0.7380 time: 0.0684s
+0
+Epoch: 0214 loss_train: 0.4556 acc_train: 0.9583 loss_val: 0.8575 acc_val: 0.7380 time: 0.0768s
+0
+Epoch: 0215 loss_train: 0.4727 acc_train: 0.9500 loss_val: 0.8569 acc_val: 0.7360 time: 0.0757s
+0
+Epoch: 0216 loss_train: 0.4740 acc_train: 0.9333 loss_val: 0.8560 acc_val: 0.7340 time: 0.0747s
+0
+Epoch: 0217 loss_train: 0.4837 acc_train: 0.9250 loss_val: 0.8544 acc_val: 0.7360 time: 0.0684s
+0
+Epoch: 0218 loss_train: 0.4483 acc_train: 0.9500 loss_val: 0.8540 acc_val: 0.7400 time: 0.1014s
+0
+Epoch: 0219 loss_train: 0.4697 acc_train: 0.9667 loss_val: 0.8532 acc_val: 0.7400 time: 0.0875s
+0
+Epoch: 0220 loss_train: 0.4824 acc_train: 0.9750 loss_val: 0.8523 acc_val: 0.7400 time: 0.0846s
+0
+Epoch: 0221 loss_train: 0.4833 acc_train: 0.9083 loss_val: 0.8513 acc_val: 0.7400 time: 0.0837s
+0
+Epoch: 0222 loss_train: 0.4561 acc_train: 0.9500 loss_val: 0.8501 acc_val: 0.7380 time: 0.0793s
+0
+Epoch: 0223 loss_train: 0.4798 acc_train: 0.9500 loss_val: 0.8495 acc_val: 0.7420 time: 0.0786s
+0
+Epoch: 0224 loss_train: 0.4875 acc_train: 0.9000 loss_val: 0.8500 acc_val: 0.7380 time: 0.0986s
+0
+Epoch: 0225 loss_train: 0.4424 acc_train: 0.9417 loss_val: 0.8508 acc_val: 0.7340 time: 0.0752s
+1
+Epoch: 0226 loss_train: 0.4871 acc_train: 0.8833 loss_val: 0.8522 acc_val: 0.7320 time: 0.0763s
+2
+Epoch: 0227 loss_train: 0.4713 acc_train: 0.9750 loss_val: 0.8520 acc_val: 0.7320 time: 0.0737s
+3
+Epoch: 0228 loss_train: 0.4777 acc_train: 0.9417 loss_val: 0.8504 acc_val: 0.7340 time: 0.0792s
+4
+Epoch: 0229 loss_train: 0.4578 acc_train: 0.9333 loss_val: 0.8473 acc_val: 0.7340 time: 0.0739s
+5
+Epoch: 0230 loss_train: 0.4571 acc_train: 0.9667 loss_val: 0.8442 acc_val: 0.7380 time: 0.0798s
+0
+Epoch: 0231 loss_train: 0.4660 acc_train: 0.9750 loss_val: 0.8418 acc_val: 0.7440 time: 0.0763s
+0
+Epoch: 0232 loss_train: 0.4729 acc_train: 0.9583 loss_val: 0.8403 acc_val: 0.7440 time: 0.0844s
+0
+Epoch: 0233 loss_train: 0.4454 acc_train: 0.9500 loss_val: 0.8400 acc_val: 0.7440 time: 0.0911s
+0
+Epoch: 0234 loss_train: 0.4631 acc_train: 0.9583 loss_val: 0.8396 acc_val: 0.7380 time: 0.0839s
+0
+Epoch: 0235 loss_train: 0.4713 acc_train: 0.9667 loss_val: 0.8405 acc_val: 0.7380 time: 0.0818s
+0
+Epoch: 0236 loss_train: 0.4597 acc_train: 0.9500 loss_val: 0.8422 acc_val: 0.7320 time: 0.0818s
+1
+Epoch: 0237 loss_train: 0.4523 acc_train: 0.9250 loss_val: 0.8425 acc_val: 0.7320 time: 0.0866s
+2
+Epoch: 0238 loss_train: 0.4178 acc_train: 0.9583 loss_val: 0.8402 acc_val: 0.7400 time: 0.0930s
+3
+Epoch: 0239 loss_train: 0.4339 acc_train: 0.9500 loss_val: 0.8380 acc_val: 0.7420 time: 0.0975s
+4
+Epoch: 0240 loss_train: 0.4285 acc_train: 0.9500 loss_val: 0.8365 acc_val: 0.7400 time: 0.0905s
+0
+Epoch: 0241 loss_train: 0.4394 acc_train: 0.9417 loss_val: 0.8350 acc_val: 0.7420 time: 0.0957s
+0
+Epoch: 0242 loss_train: 0.4427 acc_train: 0.9667 loss_val: 0.8351 acc_val: 0.7400 time: 0.0872s
+0
+Epoch: 0243 loss_train: 0.4692 acc_train: 0.9333 loss_val: 0.8365 acc_val: 0.7420 time: 0.0803s
+1
+Epoch: 0244 loss_train: 0.4546 acc_train: 0.9583 loss_val: 0.8380 acc_val: 0.7360 time: 0.0810s
+2
+Epoch: 0245 loss_train: 0.4534 acc_train: 0.9667 loss_val: 0.8381 acc_val: 0.7340 time: 0.0736s
+3
+Epoch: 0246 loss_train: 0.4575 acc_train: 0.9250 loss_val: 0.8367 acc_val: 0.7360 time: 0.0790s
+4
+Epoch: 0247 loss_train: 0.4263 acc_train: 0.9333 loss_val: 0.8334 acc_val: 0.7400 time: 0.0792s
+5
+Epoch: 0248 loss_train: 0.4310 acc_train: 0.9667 loss_val: 0.8308 acc_val: 0.7420 time: 0.0789s
+0
+Epoch: 0249 loss_train: 0.4363 acc_train: 0.9333 loss_val: 0.8302 acc_val: 0.7440 time: 0.0841s
+0
+Epoch: 0250 loss_train: 0.4336 acc_train: 0.9250 loss_val: 0.8309 acc_val: 0.7400 time: 0.0958s
+0
+Epoch: 0251 loss_train: 0.4342 acc_train: 0.9333 loss_val: 0.8332 acc_val: 0.7400 time: 0.0756s
+1
+Epoch: 0252 loss_train: 0.4752 acc_train: 0.9250 loss_val: 0.8353 acc_val: 0.7420 time: 0.0762s
+2
+Epoch: 0253 loss_train: 0.4216 acc_train: 0.9750 loss_val: 0.8368 acc_val: 0.7380 time: 0.0790s
+3
+Epoch: 0254 loss_train: 0.4274 acc_train: 0.9500 loss_val: 0.8354 acc_val: 0.7420 time: 0.0975s
+4
+Epoch: 0255 loss_train: 0.4353 acc_train: 0.9250 loss_val: 0.8311 acc_val: 0.7380 time: 0.0751s
+5
+Epoch: 0256 loss_train: 0.4395 acc_train: 0.9417 loss_val: 0.8285 acc_val: 0.7320 time: 0.0800s
+6
+Epoch: 0257 loss_train: 0.4242 acc_train: 0.9750 loss_val: 0.8277 acc_val: 0.7380 time: 0.0761s
+0
+Epoch: 0258 loss_train: 0.4409 acc_train: 0.9250 loss_val: 0.8264 acc_val: 0.7440 time: 0.0755s
+0
+Epoch: 0259 loss_train: 0.4122 acc_train: 0.9667 loss_val: 0.8255 acc_val: 0.7440 time: 0.0757s
+0
+Epoch: 0260 loss_train: 0.4664 acc_train: 0.9333 loss_val: 0.8251 acc_val: 0.7380 time: 0.0750s
+0
+Epoch: 0261 loss_train: 0.4504 acc_train: 0.9333 loss_val: 0.8269 acc_val: 0.7400 time: 0.0730s
+0
+Epoch: 0262 loss_train: 0.4630 acc_train: 0.9000 loss_val: 0.8296 acc_val: 0.7440 time: 0.0744s
+1
+Epoch: 0263 loss_train: 0.4358 acc_train: 0.9750 loss_val: 0.8311 acc_val: 0.7440 time: 0.0830s
+0
+Epoch: 0264 loss_train: 0.4148 acc_train: 0.9667 loss_val: 0.8305 acc_val: 0.7380 time: 0.0986s
+0
+Epoch: 0265 loss_train: 0.4372 acc_train: 0.9500 loss_val: 0.8304 acc_val: 0.7360 time: 0.0859s
+1
+Epoch: 0266 loss_train: 0.4624 acc_train: 0.8917 loss_val: 0.8302 acc_val: 0.7340 time: 0.1002s
+2
+Epoch: 0267 loss_train: 0.4165 acc_train: 0.9417 loss_val: 0.8290 acc_val: 0.7400 time: 0.1041s
+3
+Epoch: 0268 loss_train: 0.4194 acc_train: 0.9250 loss_val: 0.8275 acc_val: 0.7440 time: 0.0911s
+4
+Epoch: 0269 loss_train: 0.4480 acc_train: 0.9083 loss_val: 0.8271 acc_val: 0.7420 time: 0.0968s
+0
+Epoch: 0270 loss_train: 0.4135 acc_train: 0.9083 loss_val: 0.8280 acc_val: 0.7400 time: 0.1121s
+1
+Epoch: 0271 loss_train: 0.4661 acc_train: 0.9500 loss_val: 0.8297 acc_val: 0.7400 time: 0.0789s
+2
+Epoch: 0272 loss_train: 0.4233 acc_train: 0.9417 loss_val: 0.8312 acc_val: 0.7440 time: 0.0794s
+3
+Epoch: 0273 loss_train: 0.4324 acc_train: 0.9667 loss_val: 0.8310 acc_val: 0.7440 time: 0.0789s
+0
+Epoch: 0274 loss_train: 0.4370 acc_train: 0.9500 loss_val: 0.8281 acc_val: 0.7420 time: 0.0744s
+0
+Epoch: 0275 loss_train: 0.4296 acc_train: 0.9417 loss_val: 0.8254 acc_val: 0.7420 time: 0.0741s
+1
+Epoch: 0276 loss_train: 0.4441 acc_train: 0.9500 loss_val: 0.8234 acc_val: 0.7420 time: 0.0743s
+2
+Epoch: 0277 loss_train: 0.4451 acc_train: 0.9250 loss_val: 0.8234 acc_val: 0.7400 time: 0.0778s
+0
+Epoch: 0278 loss_train: 0.4213 acc_train: 0.9333 loss_val: 0.8248 acc_val: 0.7420 time: 0.0774s
+1
+Epoch: 0279 loss_train: 0.4081 acc_train: 0.9583 loss_val: 0.8275 acc_val: 0.7440 time: 0.0958s
+2
+Epoch: 0280 loss_train: 0.4074 acc_train: 0.9833 loss_val: 0.8311 acc_val: 0.7420 time: 0.0747s
+0
+Epoch: 0281 loss_train: 0.4231 acc_train: 0.9667 loss_val: 0.8336 acc_val: 0.7440 time: 0.0760s
+1
+Epoch: 0282 loss_train: 0.4331 acc_train: 0.9333 loss_val: 0.8330 acc_val: 0.7460 time: 0.0904s
+0
+Epoch: 0283 loss_train: 0.4177 acc_train: 0.9583 loss_val: 0.8310 acc_val: 0.7420 time: 0.0966s
+0
+Epoch: 0284 loss_train: 0.4532 acc_train: 0.9417 loss_val: 0.8275 acc_val: 0.7400 time: 0.0736s
+1
+Epoch: 0285 loss_train: 0.4211 acc_train: 0.9833 loss_val: 0.8237 acc_val: 0.7380 time: 0.0731s
+2
+Epoch: 0286 loss_train: 0.4141 acc_train: 0.9667 loss_val: 0.8216 acc_val: 0.7380 time: 0.0806s
+3
+Epoch: 0287 loss_train: 0.4120 acc_train: 0.9667 loss_val: 0.8211 acc_val: 0.7380 time: 0.0814s
+0
+Epoch: 0288 loss_train: 0.4494 acc_train: 0.9167 loss_val: 0.8237 acc_val: 0.7420 time: 0.0824s
+0
+Epoch: 0289 loss_train: 0.4270 acc_train: 0.9083 loss_val: 0.8274 acc_val: 0.7420 time: 0.0813s
+1
+Epoch: 0290 loss_train: 0.4181 acc_train: 0.9333 loss_val: 0.8323 acc_val: 0.7380 time: 0.0812s
+2
+Epoch: 0291 loss_train: 0.4205 acc_train: 0.9417 loss_val: 0.8342 acc_val: 0.7400 time: 0.0816s
+3
+Epoch: 0292 loss_train: 0.4153 acc_train: 0.9417 loss_val: 0.8315 acc_val: 0.7380 time: 0.1012s
+4
+Epoch: 0293 loss_train: 0.4093 acc_train: 0.9667 loss_val: 0.8280 acc_val: 0.7340 time: 0.1032s
+5
+Epoch: 0294 loss_train: 0.4471 acc_train: 0.9750 loss_val: 0.8245 acc_val: 0.7340 time: 0.0814s
+6
+Epoch: 0295 loss_train: 0.4237 acc_train: 0.9500 loss_val: 0.8233 acc_val: 0.7360 time: 0.0927s
+7
+Epoch: 0296 loss_train: 0.4158 acc_train: 0.9417 loss_val: 0.8216 acc_val: 0.7380 time: 0.0827s
+8
+Epoch: 0297 loss_train: 0.4078 acc_train: 0.9667 loss_val: 0.8212 acc_val: 0.7380 time: 0.0833s
+9
+Epoch: 0298 loss_train: 0.4015 acc_train: 0.9333 loss_val: 0.8221 acc_val: 0.7360 time: 0.0816s
+10
+Epoch: 0299 loss_train: 0.4231 acc_train: 0.9417 loss_val: 0.8233 acc_val: 0.7360 time: 0.0794s
+11
+Epoch: 0300 loss_train: 0.4101 acc_train: 0.9750 loss_val: 0.8244 acc_val: 0.7380 time: 0.0754s
+12
+Epoch: 0301 loss_train: 0.4129 acc_train: 0.9417 loss_val: 0.8244 acc_val: 0.7380 time: 0.0738s
+13
+Epoch: 0302 loss_train: 0.4085 acc_train: 0.9667 loss_val: 0.8246 acc_val: 0.7340 time: 0.0728s
+14
+Epoch: 0303 loss_train: 0.4312 acc_train: 0.9417 loss_val: 0.8225 acc_val: 0.7360 time: 0.0715s
+15
+Epoch: 0304 loss_train: 0.4240 acc_train: 0.9583 loss_val: 0.8226 acc_val: 0.7360 time: 0.0718s
+16
+Epoch: 0305 loss_train: 0.4291 acc_train: 0.9500 loss_val: 0.8221 acc_val: 0.7360 time: 0.0717s
+17
+Epoch: 0306 loss_train: 0.4089 acc_train: 0.9500 loss_val: 0.8223 acc_val: 0.7360 time: 0.0708s
+18
+Epoch: 0307 loss_train: 0.4322 acc_train: 0.9750 loss_val: 0.8211 acc_val: 0.7360 time: 0.0737s
+19
+Epoch: 0308 loss_train: 0.4148 acc_train: 0.9333 loss_val: 0.8192 acc_val: 0.7380 time: 0.0745s
+20
+Epoch: 0309 loss_train: 0.4075 acc_train: 0.9500 loss_val: 0.8170 acc_val: 0.7400 time: 0.1080s
+0
+Epoch: 0310 loss_train: 0.4051 acc_train: 0.9500 loss_val: 0.8157 acc_val: 0.7400 time: 0.0902s
+0
+Epoch: 0311 loss_train: 0.4676 acc_train: 0.8917 loss_val: 0.8166 acc_val: 0.7420 time: 0.0757s
+0
+Epoch: 0312 loss_train: 0.3942 acc_train: 0.9417 loss_val: 0.8172 acc_val: 0.7420 time: 0.0806s
+1
+Epoch: 0313 loss_train: 0.4164 acc_train: 0.9583 loss_val: 0.8179 acc_val: 0.7400 time: 0.1025s
+2
+Epoch: 0314 loss_train: 0.4107 acc_train: 0.9333 loss_val: 0.8184 acc_val: 0.7380 time: 0.0880s
+3
+Epoch: 0315 loss_train: 0.3920 acc_train: 0.9583 loss_val: 0.8197 acc_val: 0.7360 time: 0.0984s
+4
+Epoch: 0316 loss_train: 0.4215 acc_train: 0.9667 loss_val: 0.8204 acc_val: 0.7360 time: 0.1078s
+5
+Epoch: 0317 loss_train: 0.4020 acc_train: 0.9250 loss_val: 0.8211 acc_val: 0.7420 time: 0.0936s
+6
+Epoch: 0318 loss_train: 0.3953 acc_train: 0.9500 loss_val: 0.8216 acc_val: 0.7400 time: 0.0996s
+7
+Epoch: 0319 loss_train: 0.3920 acc_train: 0.9667 loss_val: 0.8214 acc_val: 0.7400 time: 0.0855s
+8
+Epoch: 0320 loss_train: 0.4231 acc_train: 0.9833 loss_val: 0.8196 acc_val: 0.7420 time: 0.0986s
+9
+Epoch: 0321 loss_train: 0.4065 acc_train: 0.9583 loss_val: 0.8155 acc_val: 0.7460 time: 0.1166s
+10
+Epoch: 0322 loss_train: 0.4273 acc_train: 0.9417 loss_val: 0.8144 acc_val: 0.7440 time: 0.0978s
+0
+Epoch: 0323 loss_train: 0.4169 acc_train: 0.9333 loss_val: 0.8141 acc_val: 0.7440 time: 0.0809s
+0
+Epoch: 0324 loss_train: 0.4316 acc_train: 0.9167 loss_val: 0.8147 acc_val: 0.7400 time: 0.1094s
+0
+Epoch: 0325 loss_train: 0.4110 acc_train: 0.9500 loss_val: 0.8165 acc_val: 0.7360 time: 0.0946s
+1
+Epoch: 0326 loss_train: 0.3597 acc_train: 0.9333 loss_val: 0.8199 acc_val: 0.7360 time: 0.0911s
+2
+Epoch: 0327 loss_train: 0.4042 acc_train: 0.9417 loss_val: 0.8237 acc_val: 0.7380 time: 0.0990s
+3
+Epoch: 0328 loss_train: 0.4180 acc_train: 0.9333 loss_val: 0.8245 acc_val: 0.7380 time: 0.1002s
+4
+Epoch: 0329 loss_train: 0.3977 acc_train: 0.9583 loss_val: 0.8215 acc_val: 0.7360 time: 0.0979s
+5
+Epoch: 0330 loss_train: 0.4080 acc_train: 0.9417 loss_val: 0.8188 acc_val: 0.7440 time: 0.0968s
+6
+Epoch: 0331 loss_train: 0.4121 acc_train: 0.9750 loss_val: 0.8171 acc_val: 0.7420 time: 0.0996s
+7
+Epoch: 0332 loss_train: 0.3965 acc_train: 0.9750 loss_val: 0.8145 acc_val: 0.7440 time: 0.0994s
+8
+Epoch: 0333 loss_train: 0.4288 acc_train: 0.9167 loss_val: 0.8136 acc_val: 0.7440 time: 0.1049s
+9
+Epoch: 0334 loss_train: 0.4068 acc_train: 0.9583 loss_val: 0.8137 acc_val: 0.7420 time: 0.0784s
+0
+Epoch: 0335 loss_train: 0.4250 acc_train: 0.9583 loss_val: 0.8151 acc_val: 0.7400 time: 0.0763s
+1
+Epoch: 0336 loss_train: 0.4241 acc_train: 0.9250 loss_val: 0.8181 acc_val: 0.7400 time: 0.0744s
+2
+Epoch: 0337 loss_train: 0.4344 acc_train: 0.9333 loss_val: 0.8201 acc_val: 0.7380 time: 0.0805s
+3
+Epoch: 0338 loss_train: 0.4467 acc_train: 0.9333 loss_val: 0.8198 acc_val: 0.7380 time: 0.1067s
+4
+Epoch: 0339 loss_train: 0.3978 acc_train: 0.9750 loss_val: 0.8198 acc_val: 0.7400 time: 0.1011s
+5
+Epoch: 0340 loss_train: 0.4252 acc_train: 0.9583 loss_val: 0.8194 acc_val: 0.7420 time: 0.0957s
+6
+Epoch: 0341 loss_train: 0.3992 acc_train: 0.9583 loss_val: 0.8189 acc_val: 0.7420 time: 0.0917s
+7
+Epoch: 0342 loss_train: 0.4054 acc_train: 0.9500 loss_val: 0.8162 acc_val: 0.7440 time: 0.0843s
+8
+Epoch: 0343 loss_train: 0.4198 acc_train: 0.9083 loss_val: 0.8142 acc_val: 0.7440 time: 0.0743s
+9
+Epoch: 0344 loss_train: 0.3808 acc_train: 0.9833 loss_val: 0.8130 acc_val: 0.7420 time: 0.0747s
+10
+Epoch: 0345 loss_train: 0.4129 acc_train: 0.9333 loss_val: 0.8131 acc_val: 0.7400 time: 0.0757s
+0
+Epoch: 0346 loss_train: 0.3976 acc_train: 0.9667 loss_val: 0.8140 acc_val: 0.7360 time: 0.0791s
+1
+Epoch: 0347 loss_train: 0.3840 acc_train: 0.9417 loss_val: 0.8145 acc_val: 0.7380 time: 0.0752s
+2
+Epoch: 0348 loss_train: 0.4091 acc_train: 0.9667 loss_val: 0.8150 acc_val: 0.7380 time: 0.0754s
+3
+Epoch: 0349 loss_train: 0.4346 acc_train: 0.9417 loss_val: 0.8159 acc_val: 0.7420 time: 0.0787s
+4
+Epoch: 0350 loss_train: 0.4030 acc_train: 0.9583 loss_val: 0.8178 acc_val: 0.7420 time: 0.0743s
+5
+Epoch: 0351 loss_train: 0.4103 acc_train: 0.9500 loss_val: 0.8184 acc_val: 0.7400 time: 0.0765s
+6
+Epoch: 0352 loss_train: 0.3994 acc_train: 0.9500 loss_val: 0.8177 acc_val: 0.7420 time: 0.0753s
+7
+Epoch: 0353 loss_train: 0.4016 acc_train: 0.9667 loss_val: 0.8165 acc_val: 0.7420 time: 0.0747s
+8
+Epoch: 0354 loss_train: 0.4148 acc_train: 0.9417 loss_val: 0.8151 acc_val: 0.7400 time: 0.0791s
+9
+Epoch: 0355 loss_train: 0.4043 acc_train: 0.9333 loss_val: 0.8150 acc_val: 0.7400 time: 0.0799s
+10
+Epoch: 0356 loss_train: 0.4025 acc_train: 0.9667 loss_val: 0.8162 acc_val: 0.7400 time: 0.0822s
+11
+Epoch: 0357 loss_train: 0.3834 acc_train: 0.9667 loss_val: 0.8172 acc_val: 0.7400 time: 0.0788s
+12
+Epoch: 0358 loss_train: 0.3946 acc_train: 0.9583 loss_val: 0.8184 acc_val: 0.7400 time: 0.0795s
+13
+Epoch: 0359 loss_train: 0.3952 acc_train: 0.9917 loss_val: 0.8206 acc_val: 0.7400 time: 0.1124s
+14
+Epoch: 0360 loss_train: 0.4130 acc_train: 0.9333 loss_val: 0.8195 acc_val: 0.7400 time: 0.0773s
+15
+Epoch: 0361 loss_train: 0.4130 acc_train: 0.9417 loss_val: 0.8159 acc_val: 0.7360 time: 0.0976s
+16
+Epoch: 0362 loss_train: 0.3957 acc_train: 0.9583 loss_val: 0.8121 acc_val: 0.7400 time: 0.0767s
+17
+Epoch: 0363 loss_train: 0.3951 acc_train: 0.9417 loss_val: 0.8092 acc_val: 0.7380 time: 0.0756s
+0
+Epoch: 0364 loss_train: 0.4134 acc_train: 0.9833 loss_val: 0.8082 acc_val: 0.7380 time: 0.0754s
+0
+Epoch: 0365 loss_train: 0.3772 acc_train: 0.9917 loss_val: 0.8098 acc_val: 0.7360 time: 0.0752s
+0
+Epoch: 0366 loss_train: 0.4041 acc_train: 0.9583 loss_val: 0.8133 acc_val: 0.7380 time: 0.0906s
+1
+Epoch: 0367 loss_train: 0.3710 acc_train: 0.9667 loss_val: 0.8164 acc_val: 0.7380 time: 0.0904s
+2
+Epoch: 0368 loss_train: 0.3959 acc_train: 0.9583 loss_val: 0.8203 acc_val: 0.7360 time: 0.0744s
+3
+Epoch: 0369 loss_train: 0.3953 acc_train: 0.9333 loss_val: 0.8213 acc_val: 0.7360 time: 0.0904s
+4
+Epoch: 0370 loss_train: 0.4156 acc_train: 0.9333 loss_val: 0.8205 acc_val: 0.7380 time: 0.0875s
+5
+Epoch: 0371 loss_train: 0.3734 acc_train: 0.9417 loss_val: 0.8166 acc_val: 0.7380 time: 0.0766s
+6
+Epoch: 0372 loss_train: 0.3949 acc_train: 0.9750 loss_val: 0.8121 acc_val: 0.7400 time: 0.0796s
+7
+Epoch: 0373 loss_train: 0.3863 acc_train: 0.9500 loss_val: 0.8100 acc_val: 0.7380 time: 0.0971s
+8
+Epoch: 0374 loss_train: 0.3896 acc_train: 0.9500 loss_val: 0.8109 acc_val: 0.7360 time: 0.1010s
+9
+Epoch: 0375 loss_train: 0.3898 acc_train: 0.9417 loss_val: 0.8110 acc_val: 0.7380 time: 0.0807s
+10
+Epoch: 0376 loss_train: 0.4231 acc_train: 0.9250 loss_val: 0.8141 acc_val: 0.7400 time: 0.0749s
+11
+Epoch: 0377 loss_train: 0.3894 acc_train: 0.9500 loss_val: 0.8185 acc_val: 0.7380 time: 0.0756s
+12
+Epoch: 0378 loss_train: 0.4271 acc_train: 0.9417 loss_val: 0.8213 acc_val: 0.7400 time: 0.0791s
+13
+Epoch: 0379 loss_train: 0.3768 acc_train: 0.9667 loss_val: 0.8196 acc_val: 0.7400 time: 0.0878s
+14
+Epoch: 0380 loss_train: 0.3720 acc_train: 0.9417 loss_val: 0.8141 acc_val: 0.7400 time: 0.0990s
+15
+Epoch: 0381 loss_train: 0.3801 acc_train: 0.9583 loss_val: 0.8080 acc_val: 0.7360 time: 0.0838s
+16
+Epoch: 0382 loss_train: 0.3841 acc_train: 0.9417 loss_val: 0.8044 acc_val: 0.7400 time: 0.0826s
+0
+Epoch: 0383 loss_train: 0.3825 acc_train: 0.9667 loss_val: 0.8021 acc_val: 0.7380 time: 0.0857s
+0
+Epoch: 0384 loss_train: 0.3815 acc_train: 0.9750 loss_val: 0.8031 acc_val: 0.7380 time: 0.0962s
+0
+Epoch: 0385 loss_train: 0.4085 acc_train: 0.9250 loss_val: 0.8077 acc_val: 0.7340 time: 0.0775s
+1
+Epoch: 0386 loss_train: 0.3701 acc_train: 0.9750 loss_val: 0.8117 acc_val: 0.7400 time: 0.0780s
+2
+Epoch: 0387 loss_train: 0.4140 acc_train: 0.9000 loss_val: 0.8151 acc_val: 0.7420 time: 0.0785s
+3
+Epoch: 0388 loss_train: 0.3812 acc_train: 0.9500 loss_val: 0.8173 acc_val: 0.7400 time: 0.0740s
+4
+Epoch: 0389 loss_train: 0.4027 acc_train: 0.9417 loss_val: 0.8163 acc_val: 0.7360 time: 0.0856s
+5
+Epoch: 0390 loss_train: 0.4065 acc_train: 0.9250 loss_val: 0.8134 acc_val: 0.7360 time: 0.0765s
+6
+Epoch: 0391 loss_train: 0.3761 acc_train: 0.9917 loss_val: 0.8107 acc_val: 0.7360 time: 0.0984s
+7
+Epoch: 0392 loss_train: 0.3717 acc_train: 0.9750 loss_val: 0.8069 acc_val: 0.7380 time: 0.1003s
+8
+Epoch: 0393 loss_train: 0.3952 acc_train: 0.9167 loss_val: 0.8043 acc_val: 0.7360 time: 0.0734s
+9
+Epoch: 0394 loss_train: 0.4092 acc_train: 0.9500 loss_val: 0.8041 acc_val: 0.7340 time: 0.0735s
+10
+Epoch: 0395 loss_train: 0.3834 acc_train: 0.9833 loss_val: 0.8063 acc_val: 0.7340 time: 0.0745s
+11
+Epoch: 0396 loss_train: 0.3890 acc_train: 0.9500 loss_val: 0.8106 acc_val: 0.7400 time: 0.0745s
+12
+Epoch: 0397 loss_train: 0.3930 acc_train: 0.9750 loss_val: 0.8125 acc_val: 0.7420 time: 0.0733s
+13
+Epoch: 0398 loss_train: 0.4072 acc_train: 0.9500 loss_val: 0.8126 acc_val: 0.7420 time: 0.0756s
+14
+Epoch: 0399 loss_train: 0.3821 acc_train: 0.9583 loss_val: 0.8106 acc_val: 0.7440 time: 0.0851s
+15
+Epoch: 0400 loss_train: 0.3868 acc_train: 0.9333 loss_val: 0.8087 acc_val: 0.7420 time: 0.0918s
+16
+Epoch: 0401 loss_train: 0.3956 acc_train: 0.9667 loss_val: 0.8073 acc_val: 0.7340 time: 0.0937s
+17
+Epoch: 0402 loss_train: 0.4114 acc_train: 0.9167 loss_val: 0.8056 acc_val: 0.7320 time: 0.0832s
+18
+Epoch: 0403 loss_train: 0.3774 acc_train: 0.9583 loss_val: 0.8043 acc_val: 0.7380 time: 0.0862s
+19
+Epoch: 0404 loss_train: 0.4081 acc_train: 0.9333 loss_val: 0.8049 acc_val: 0.7440 time: 0.0836s
+20
+Epoch: 0405 loss_train: 0.3891 acc_train: 0.9583 loss_val: 0.8088 acc_val: 0.7400 time: 0.0830s
+21
+Epoch: 0406 loss_train: 0.3702 acc_train: 0.9667 loss_val: 0.8129 acc_val: 0.7420 time: 0.1097s
+22
+Epoch: 0407 loss_train: 0.3920 acc_train: 0.9417 loss_val: 0.8145 acc_val: 0.7420 time: 0.1005s
+23
+Epoch: 0408 loss_train: 0.3870 acc_train: 0.9500 loss_val: 0.8135 acc_val: 0.7420 time: 0.0806s
+24
+Epoch: 0409 loss_train: 0.3754 acc_train: 0.9833 loss_val: 0.8106 acc_val: 0.7400 time: 0.0847s
+25
+Epoch: 0410 loss_train: 0.3721 acc_train: 0.9833 loss_val: 0.8076 acc_val: 0.7360 time: 0.1150s
+26
+Epoch: 0411 loss_train: 0.3668 acc_train: 0.9750 loss_val: 0.8049 acc_val: 0.7340 time: 0.0897s
+27
+Epoch: 0412 loss_train: 0.3960 acc_train: 0.9333 loss_val: 0.8036 acc_val: 0.7400 time: 0.0774s
+28
+Epoch: 0413 loss_train: 0.3643 acc_train: 0.9500 loss_val: 0.8038 acc_val: 0.7420 time: 0.0732s
+29
+Epoch: 0414 loss_train: 0.3887 acc_train: 0.9250 loss_val: 0.8066 acc_val: 0.7380 time: 0.0740s
+30
+Epoch: 0415 loss_train: 0.3876 acc_train: 0.9167 loss_val: 0.8108 acc_val: 0.7420 time: 0.0733s
+31
+Epoch: 0416 loss_train: 0.3915 acc_train: 0.9583 loss_val: 0.8134 acc_val: 0.7420 time: 0.0750s
+32
+Epoch: 0417 loss_train: 0.4122 acc_train: 0.9417 loss_val: 0.8124 acc_val: 0.7400 time: 0.0771s
+33
+Epoch: 0418 loss_train: 0.3897 acc_train: 0.9417 loss_val: 0.8092 acc_val: 0.7380 time: 0.0746s
+34
+Epoch: 0419 loss_train: 0.3790 acc_train: 0.9917 loss_val: 0.8061 acc_val: 0.7360 time: 0.0867s
+35
+Epoch: 0420 loss_train: 0.4032 acc_train: 0.9417 loss_val: 0.8040 acc_val: 0.7360 time: 0.0745s
+36
+Epoch: 0421 loss_train: 0.3793 acc_train: 0.8917 loss_val: 0.8036 acc_val: 0.7380 time: 0.0907s
+37
+Epoch: 0422 loss_train: 0.3882 acc_train: 0.9333 loss_val: 0.8038 acc_val: 0.7380 time: 0.1017s
+38
+Epoch: 0423 loss_train: 0.3851 acc_train: 0.9333 loss_val: 0.8045 acc_val: 0.7420 time: 0.0775s
+39
+Epoch: 0424 loss_train: 0.3821 acc_train: 0.9667 loss_val: 0.8058 acc_val: 0.7460 time: 0.0837s
+40
+Epoch: 0425 loss_train: 0.3711 acc_train: 0.9667 loss_val: 0.8063 acc_val: 0.7460 time: 0.0849s
+0
+Epoch: 0426 loss_train: 0.4102 acc_train: 0.9000 loss_val: 0.8066 acc_val: 0.7420 time: 0.0775s
+0
+Epoch: 0427 loss_train: 0.3972 acc_train: 0.9250 loss_val: 0.8092 acc_val: 0.7420 time: 0.0753s
+1
+Epoch: 0428 loss_train: 0.3763 acc_train: 0.9500 loss_val: 0.8120 acc_val: 0.7400 time: 0.0790s
+2
+Epoch: 0429 loss_train: 0.3812 acc_train: 0.9667 loss_val: 0.8122 acc_val: 0.7400 time: 0.0776s
+3
+Epoch: 0430 loss_train: 0.3925 acc_train: 0.9083 loss_val: 0.8130 acc_val: 0.7400 time: 0.0751s
+4
+Epoch: 0431 loss_train: 0.3948 acc_train: 0.9500 loss_val: 0.8127 acc_val: 0.7440 time: 0.0887s
+5
+Epoch: 0432 loss_train: 0.3884 acc_train: 0.9583 loss_val: 0.8106 acc_val: 0.7400 time: 0.0781s
+6
+Epoch: 0433 loss_train: 0.3922 acc_train: 0.9250 loss_val: 0.8067 acc_val: 0.7420 time: 0.0920s
+7
+Epoch: 0434 loss_train: 0.3833 acc_train: 0.9417 loss_val: 0.8023 acc_val: 0.7460 time: 0.0782s
+8
+Epoch: 0435 loss_train: 0.3715 acc_train: 0.9667 loss_val: 0.8014 acc_val: 0.7480 time: 0.0767s
+0
+Epoch: 0436 loss_train: 0.3753 acc_train: 0.9667 loss_val: 0.8031 acc_val: 0.7480 time: 0.0800s
+0
+Epoch: 0437 loss_train: 0.3690 acc_train: 0.9750 loss_val: 0.8070 acc_val: 0.7380 time: 0.0763s
+0
+Epoch: 0438 loss_train: 0.3681 acc_train: 0.9833 loss_val: 0.8114 acc_val: 0.7380 time: 0.0768s
+1
+Epoch: 0439 loss_train: 0.4051 acc_train: 0.9333 loss_val: 0.8143 acc_val: 0.7360 time: 0.0766s
+2
+Epoch: 0440 loss_train: 0.3803 acc_train: 0.9250 loss_val: 0.8166 acc_val: 0.7380 time: 0.0782s
+3
+Epoch: 0441 loss_train: 0.3883 acc_train: 0.9500 loss_val: 0.8156 acc_val: 0.7400 time: 0.0905s
+4
+Epoch: 0442 loss_train: 0.4070 acc_train: 0.9667 loss_val: 0.8120 acc_val: 0.7400 time: 0.0896s
+5
+Epoch: 0443 loss_train: 0.3719 acc_train: 0.9500 loss_val: 0.8079 acc_val: 0.7380 time: 0.1001s
+6
+Epoch: 0444 loss_train: 0.3599 acc_train: 0.9917 loss_val: 0.8046 acc_val: 0.7420 time: 0.0832s
+7
+Epoch: 0445 loss_train: 0.4003 acc_train: 0.9667 loss_val: 0.8025 acc_val: 0.7460 time: 0.0838s
+8
+Epoch: 0446 loss_train: 0.4069 acc_train: 0.9167 loss_val: 0.8030 acc_val: 0.7500 time: 0.0841s
+9
+Epoch: 0447 loss_train: 0.3724 acc_train: 0.9667 loss_val: 0.8070 acc_val: 0.7460 time: 0.0831s
+0
+Epoch: 0448 loss_train: 0.4067 acc_train: 0.9167 loss_val: 0.8143 acc_val: 0.7420 time: 0.0801s
+1
+Epoch: 0449 loss_train: 0.3828 acc_train: 0.9583 loss_val: 0.8198 acc_val: 0.7360 time: 0.0919s
+2
+Epoch: 0450 loss_train: 0.3615 acc_train: 0.9500 loss_val: 0.8183 acc_val: 0.7380 time: 0.0870s
+3
+Epoch: 0451 loss_train: 0.3929 acc_train: 0.9417 loss_val: 0.8140 acc_val: 0.7400 time: 0.1027s
+4
+Epoch: 0452 loss_train: 0.3681 acc_train: 0.9667 loss_val: 0.8069 acc_val: 0.7420 time: 0.0781s
+5
+Epoch: 0453 loss_train: 0.3994 acc_train: 0.9583 loss_val: 0.8012 acc_val: 0.7420 time: 0.0879s
+6
+Epoch: 0454 loss_train: 0.4000 acc_train: 0.9500 loss_val: 0.7977 acc_val: 0.7400 time: 0.1043s
+0
+Epoch: 0455 loss_train: 0.3672 acc_train: 0.9583 loss_val: 0.7976 acc_val: 0.7460 time: 0.1040s
+0
+Epoch: 0456 loss_train: 0.3902 acc_train: 0.9583 loss_val: 0.7995 acc_val: 0.7440 time: 0.0980s
+0
+Epoch: 0457 loss_train: 0.4003 acc_train: 0.9667 loss_val: 0.8031 acc_val: 0.7440 time: 0.1081s
+1
+Epoch: 0458 loss_train: 0.4206 acc_train: 0.9417 loss_val: 0.8082 acc_val: 0.7420 time: 0.1202s
+2
+Epoch: 0459 loss_train: 0.3814 acc_train: 0.9417 loss_val: 0.8123 acc_val: 0.7420 time: 0.0992s
+3
+Epoch: 0460 loss_train: 0.3903 acc_train: 0.9417 loss_val: 0.8109 acc_val: 0.7400 time: 0.0944s
+4
+Epoch: 0461 loss_train: 0.4216 acc_train: 0.9250 loss_val: 0.8051 acc_val: 0.7360 time: 0.0981s
+5
+Epoch: 0462 loss_train: 0.3706 acc_train: 0.9500 loss_val: 0.8007 acc_val: 0.7400 time: 0.0921s
+6
+Epoch: 0463 loss_train: 0.3898 acc_train: 0.9083 loss_val: 0.7994 acc_val: 0.7420 time: 0.0819s
+7
+Epoch: 0464 loss_train: 0.3692 acc_train: 0.9167 loss_val: 0.7998 acc_val: 0.7440 time: 0.0821s
+8
+Epoch: 0465 loss_train: 0.3720 acc_train: 0.9333 loss_val: 0.8030 acc_val: 0.7460 time: 0.0821s
+9
+Epoch: 0466 loss_train: 0.3764 acc_train: 0.9500 loss_val: 0.8059 acc_val: 0.7460 time: 0.0829s
+10
+Epoch: 0467 loss_train: 0.3901 acc_train: 0.9833 loss_val: 0.8094 acc_val: 0.7460 time: 0.0954s
+11
+Epoch: 0468 loss_train: 0.3454 acc_train: 0.9583 loss_val: 0.8105 acc_val: 0.7440 time: 0.0933s
+12
+Epoch: 0469 loss_train: 0.3700 acc_train: 0.9500 loss_val: 0.8094 acc_val: 0.7400 time: 0.0800s
+13
+Epoch: 0470 loss_train: 0.3541 acc_train: 0.9667 loss_val: 0.8081 acc_val: 0.7360 time: 0.1110s
+14
+Epoch: 0471 loss_train: 0.3827 acc_train: 0.9583 loss_val: 0.8059 acc_val: 0.7400 time: 0.0906s
+15
+Epoch: 0472 loss_train: 0.3721 acc_train: 0.9750 loss_val: 0.8053 acc_val: 0.7400 time: 0.0835s
+16
+Epoch: 0473 loss_train: 0.3653 acc_train: 0.9583 loss_val: 0.8053 acc_val: 0.7420 time: 0.0739s
+17
+Epoch: 0474 loss_train: 0.3631 acc_train: 0.9333 loss_val: 0.8038 acc_val: 0.7420 time: 0.0974s
+18
+Epoch: 0475 loss_train: 0.3690 acc_train: 0.9667 loss_val: 0.8025 acc_val: 0.7440 time: 0.0732s
+19
+Epoch: 0476 loss_train: 0.3741 acc_train: 0.9417 loss_val: 0.8040 acc_val: 0.7440 time: 0.0757s
+20
+Epoch: 0477 loss_train: 0.3693 acc_train: 0.9667 loss_val: 0.8073 acc_val: 0.7440 time: 0.0858s
+21
+Epoch: 0478 loss_train: 0.3497 acc_train: 0.9417 loss_val: 0.8088 acc_val: 0.7460 time: 0.1026s
+22
+Epoch: 0479 loss_train: 0.3900 acc_train: 0.9667 loss_val: 0.8104 acc_val: 0.7440 time: 0.0905s
+23
+Epoch: 0480 loss_train: 0.3648 acc_train: 0.9833 loss_val: 0.8134 acc_val: 0.7380 time: 0.0768s
+24
+Epoch: 0481 loss_train: 0.3709 acc_train: 0.9750 loss_val: 0.8153 acc_val: 0.7360 time: 0.0747s
+25
+Epoch: 0482 loss_train: 0.3747 acc_train: 0.9417 loss_val: 0.8144 acc_val: 0.7360 time: 0.0754s
+26
+Epoch: 0483 loss_train: 0.3816 acc_train: 0.9500 loss_val: 0.8116 acc_val: 0.7380 time: 0.0762s
+27
+Epoch: 0484 loss_train: 0.3672 acc_train: 0.9417 loss_val: 0.8064 acc_val: 0.7340 time: 0.0775s
+28
+Epoch: 0485 loss_train: 0.3700 acc_train: 0.9667 loss_val: 0.8016 acc_val: 0.7380 time: 0.0814s
+29
+Epoch: 0486 loss_train: 0.3800 acc_train: 0.9500 loss_val: 0.7980 acc_val: 0.7420 time: 0.0813s
+30
+Epoch: 0487 loss_train: 0.3833 acc_train: 0.9667 loss_val: 0.7979 acc_val: 0.7480 time: 0.0850s
+31
+Epoch: 0488 loss_train: 0.3509 acc_train: 0.9667 loss_val: 0.8002 acc_val: 0.7480 time: 0.0997s
+32
+Epoch: 0489 loss_train: 0.3462 acc_train: 0.9583 loss_val: 0.8047 acc_val: 0.7460 time: 0.0744s
+33
+Epoch: 0490 loss_train: 0.3839 acc_train: 0.9583 loss_val: 0.8089 acc_val: 0.7400 time: 0.0917s
+34
+Epoch: 0491 loss_train: 0.3593 acc_train: 0.9750 loss_val: 0.8111 acc_val: 0.7380 time: 0.0811s
+35
+Epoch: 0492 loss_train: 0.3591 acc_train: 0.9750 loss_val: 0.8105 acc_val: 0.7360 time: 0.0816s
+36
+Epoch: 0493 loss_train: 0.3533 acc_train: 0.9417 loss_val: 0.8074 acc_val: 0.7300 time: 0.0812s
+37
+Epoch: 0494 loss_train: 0.3482 acc_train: 0.9417 loss_val: 0.8036 acc_val: 0.7320 time: 0.0812s
+38
+Epoch: 0495 loss_train: 0.3598 acc_train: 0.9333 loss_val: 0.8000 acc_val: 0.7360 time: 0.0757s
+39
+Epoch: 0496 loss_train: 0.3863 acc_train: 0.9583 loss_val: 0.7975 acc_val: 0.7440 time: 0.0755s
+40
+Epoch: 0497 loss_train: 0.3581 acc_train: 0.9500 loss_val: 0.7980 acc_val: 0.7460 time: 0.0768s
+0
+Epoch: 0498 loss_train: 0.3753 acc_train: 0.9583 loss_val: 0.8003 acc_val: 0.7500 time: 0.0938s
+1
+Epoch: 0499 loss_train: 0.3819 acc_train: 0.9500 loss_val: 0.8017 acc_val: 0.7500 time: 0.1110s
+0
+Epoch: 0500 loss_train: 0.3358 acc_train: 0.9750 loss_val: 0.8038 acc_val: 0.7420 time: 0.0974s
+0
+Epoch: 0501 loss_train: 0.3725 acc_train: 0.9583 loss_val: 0.8057 acc_val: 0.7400 time: 0.0764s
+1
+Epoch: 0502 loss_train: 0.3454 acc_train: 0.9750 loss_val: 0.8055 acc_val: 0.7380 time: 0.0756s
+2
+Epoch: 0503 loss_train: 0.3528 acc_train: 0.9583 loss_val: 0.8038 acc_val: 0.7380 time: 0.0785s
+3
+Epoch: 0504 loss_train: 0.3983 acc_train: 0.9667 loss_val: 0.8028 acc_val: 0.7360 time: 0.1014s
+4
+Epoch: 0505 loss_train: 0.3571 acc_train: 0.9833 loss_val: 0.8014 acc_val: 0.7400 time: 0.0758s
+5
+Epoch: 0506 loss_train: 0.4063 acc_train: 0.9500 loss_val: 0.8016 acc_val: 0.7480 time: 0.0758s
+6
+Epoch: 0507 loss_train: 0.3585 acc_train: 0.9583 loss_val: 0.8017 acc_val: 0.7500 time: 0.0916s
+7
+Epoch: 0508 loss_train: 0.3850 acc_train: 0.9167 loss_val: 0.8043 acc_val: 0.7480 time: 0.1009s
+0
+Epoch: 0509 loss_train: 0.3659 acc_train: 0.9750 loss_val: 0.8056 acc_val: 0.7440 time: 0.0744s
+1
+Epoch: 0510 loss_train: 0.3392 acc_train: 0.9583 loss_val: 0.8045 acc_val: 0.7420 time: 0.0784s
+2
+Epoch: 0511 loss_train: 0.3719 acc_train: 0.9667 loss_val: 0.8029 acc_val: 0.7380 time: 0.0769s
+3
+Epoch: 0512 loss_train: 0.3539 acc_train: 0.9250 loss_val: 0.8031 acc_val: 0.7380 time: 0.0848s
+4
+Epoch: 0513 loss_train: 0.3421 acc_train: 0.9500 loss_val: 0.8032 acc_val: 0.7380 time: 0.0998s
+5
+Epoch: 0514 loss_train: 0.3593 acc_train: 0.9417 loss_val: 0.8039 acc_val: 0.7400 time: 0.0801s
+6
+Epoch: 0515 loss_train: 0.3316 acc_train: 0.9750 loss_val: 0.8059 acc_val: 0.7420 time: 0.0951s
+7
+Epoch: 0516 loss_train: 0.3438 acc_train: 0.9583 loss_val: 0.8075 acc_val: 0.7420 time: 0.0718s
+8
+Epoch: 0517 loss_train: 0.3363 acc_train: 0.9500 loss_val: 0.8094 acc_val: 0.7420 time: 0.0749s
+9
+Epoch: 0518 loss_train: 0.3392 acc_train: 0.9583 loss_val: 0.8093 acc_val: 0.7440 time: 0.0775s
+10
+Epoch: 0519 loss_train: 0.3460 acc_train: 0.9833 loss_val: 0.8080 acc_val: 0.7420 time: 0.0758s
+11
+Epoch: 0520 loss_train: 0.3654 acc_train: 0.9500 loss_val: 0.8051 acc_val: 0.7440 time: 0.1048s
+12
+Epoch: 0521 loss_train: 0.3584 acc_train: 0.9417 loss_val: 0.8035 acc_val: 0.7440 time: 0.0777s
+13
+Epoch: 0522 loss_train: 0.3448 acc_train: 0.9750 loss_val: 0.8028 acc_val: 0.7380 time: 0.0794s
+14
+Epoch: 0523 loss_train: 0.3364 acc_train: 0.9583 loss_val: 0.8029 acc_val: 0.7360 time: 0.0796s
+15
+Epoch: 0524 loss_train: 0.3623 acc_train: 0.9250 loss_val: 0.8042 acc_val: 0.7420 time: 0.0789s
+16
+Epoch: 0525 loss_train: 0.3397 acc_train: 0.9500 loss_val: 0.8054 acc_val: 0.7460 time: 0.0745s
+17
+Epoch: 0526 loss_train: 0.3568 acc_train: 0.9583 loss_val: 0.8035 acc_val: 0.7440 time: 0.0735s
+18
+Epoch: 0527 loss_train: 0.3521 acc_train: 0.9667 loss_val: 0.8021 acc_val: 0.7440 time: 0.0728s
+19
+Epoch: 0528 loss_train: 0.3390 acc_train: 0.9833 loss_val: 0.8023 acc_val: 0.7440 time: 0.0731s
+20
+Epoch: 0529 loss_train: 0.3540 acc_train: 0.9667 loss_val: 0.8010 acc_val: 0.7440 time: 0.0732s
+21
+Epoch: 0530 loss_train: 0.3423 acc_train: 0.9583 loss_val: 0.7975 acc_val: 0.7400 time: 0.0713s
+22
+Epoch: 0531 loss_train: 0.3517 acc_train: 0.9583 loss_val: 0.7967 acc_val: 0.7400 time: 0.0738s
+0
+Epoch: 0532 loss_train: 0.3679 acc_train: 0.9833 loss_val: 0.8010 acc_val: 0.7400 time: 0.0940s
+0
+Epoch: 0533 loss_train: 0.3502 acc_train: 0.9750 loss_val: 0.8039 acc_val: 0.7420 time: 0.0859s
+1
+Epoch: 0534 loss_train: 0.3482 acc_train: 0.9833 loss_val: 0.8048 acc_val: 0.7420 time: 0.0800s
+2
+Epoch: 0535 loss_train: 0.3404 acc_train: 0.9667 loss_val: 0.8028 acc_val: 0.7400 time: 0.1030s
+3
+Epoch: 0536 loss_train: 0.3394 acc_train: 0.9667 loss_val: 0.8010 acc_val: 0.7400 time: 0.1018s
+4
+Epoch: 0537 loss_train: 0.3758 acc_train: 0.9417 loss_val: 0.8011 acc_val: 0.7420 time: 0.1070s
+5
+Epoch: 0538 loss_train: 0.3519 acc_train: 0.9583 loss_val: 0.8028 acc_val: 0.7380 time: 0.0921s
+6
+Epoch: 0539 loss_train: 0.3618 acc_train: 0.9583 loss_val: 0.8023 acc_val: 0.7380 time: 0.0935s
+7
+Epoch: 0540 loss_train: 0.3401 acc_train: 0.9583 loss_val: 0.8008 acc_val: 0.7400 time: 0.0790s
+8
+Epoch: 0541 loss_train: 0.3418 acc_train: 0.9583 loss_val: 0.7994 acc_val: 0.7380 time: 0.0987s
+9
+Epoch: 0542 loss_train: 0.3801 acc_train: 0.9583 loss_val: 0.8000 acc_val: 0.7400 time: 0.0931s
+10
+Epoch: 0543 loss_train: 0.3468 acc_train: 0.9667 loss_val: 0.8020 acc_val: 0.7420 time: 0.0792s
+11
+Epoch: 0544 loss_train: 0.3502 acc_train: 0.9583 loss_val: 0.8035 acc_val: 0.7440 time: 0.0998s
+12
+Epoch: 0545 loss_train: 0.3668 acc_train: 0.9917 loss_val: 0.8046 acc_val: 0.7440 time: 0.0883s
+13
+Epoch: 0546 loss_train: 0.3461 acc_train: 0.9667 loss_val: 0.8061 acc_val: 0.7400 time: 0.0957s
+14
+Epoch: 0547 loss_train: 0.3398 acc_train: 0.9750 loss_val: 0.8059 acc_val: 0.7360 time: 0.0890s
+15
+Epoch: 0548 loss_train: 0.3435 acc_train: 0.9417 loss_val: 0.8053 acc_val: 0.7340 time: 0.0971s
+16
+Epoch: 0549 loss_train: 0.3348 acc_train: 0.9583 loss_val: 0.8035 acc_val: 0.7380 time: 0.0893s
+17
+Epoch: 0550 loss_train: 0.3470 acc_train: 0.9917 loss_val: 0.8014 acc_val: 0.7400 time: 0.0790s
+18
+Epoch: 0551 loss_train: 0.3535 acc_train: 0.9667 loss_val: 0.8024 acc_val: 0.7420 time: 0.0853s
+19
+Epoch: 0552 loss_train: 0.3616 acc_train: 0.9583 loss_val: 0.8059 acc_val: 0.7380 time: 0.0797s
+20
+Epoch: 0553 loss_train: 0.3184 acc_train: 0.9583 loss_val: 0.8082 acc_val: 0.7380 time: 0.0898s
+21
+Epoch: 0554 loss_train: 0.3341 acc_train: 0.9583 loss_val: 0.8075 acc_val: 0.7400 time: 0.1061s
+22
+Epoch: 0555 loss_train: 0.3663 acc_train: 0.9417 loss_val: 0.8065 acc_val: 0.7400 time: 0.1068s
+23
+Epoch: 0556 loss_train: 0.3602 acc_train: 0.9583 loss_val: 0.8060 acc_val: 0.7420 time: 0.0918s
+24
+Epoch: 0557 loss_train: 0.3436 acc_train: 0.9667 loss_val: 0.8061 acc_val: 0.7420 time: 0.1003s
+25
+Epoch: 0558 loss_train: 0.3571 acc_train: 0.9833 loss_val: 0.8053 acc_val: 0.7400 time: 0.0862s
+26
+Epoch: 0559 loss_train: 0.3731 acc_train: 0.9667 loss_val: 0.8050 acc_val: 0.7420 time: 0.0845s
+27
+Epoch: 0560 loss_train: 0.3664 acc_train: 0.9750 loss_val: 0.8031 acc_val: 0.7400 time: 0.1174s
+28
+Epoch: 0561 loss_train: 0.3639 acc_train: 0.9667 loss_val: 0.8026 acc_val: 0.7380 time: 0.0915s
+29
+Epoch: 0562 loss_train: 0.3661 acc_train: 0.9500 loss_val: 0.8034 acc_val: 0.7360 time: 0.0775s
+30
+Epoch: 0563 loss_train: 0.3693 acc_train: 0.9500 loss_val: 0.8048 acc_val: 0.7380 time: 0.1010s
+31
+Epoch: 0564 loss_train: 0.3226 acc_train: 0.9833 loss_val: 0.8056 acc_val: 0.7380 time: 0.0980s
+32
+Epoch: 0565 loss_train: 0.3778 acc_train: 0.9583 loss_val: 0.8053 acc_val: 0.7360 time: 0.1000s
+33
+Epoch: 0566 loss_train: 0.3530 acc_train: 0.9667 loss_val: 0.8049 acc_val: 0.7360 time: 0.0860s
+34
+Epoch: 0567 loss_train: 0.3470 acc_train: 0.9583 loss_val: 0.8028 acc_val: 0.7360 time: 0.1038s
+35
+Epoch: 0568 loss_train: 0.3412 acc_train: 0.9667 loss_val: 0.8018 acc_val: 0.7440 time: 0.0903s
+36
+Epoch: 0569 loss_train: 0.3432 acc_train: 0.9667 loss_val: 0.8026 acc_val: 0.7400 time: 0.1026s
+37
+Epoch: 0570 loss_train: 0.3684 acc_train: 0.9917 loss_val: 0.8055 acc_val: 0.7400 time: 0.0979s
+38
+Epoch: 0571 loss_train: 0.3309 acc_train: 0.9500 loss_val: 0.8072 acc_val: 0.7420 time: 0.0868s
+39
+Epoch: 0572 loss_train: 0.3516 acc_train: 0.9667 loss_val: 0.8065 acc_val: 0.7400 time: 0.0814s
+40
+Epoch: 0573 loss_train: 0.3275 acc_train: 0.9667 loss_val: 0.8049 acc_val: 0.7400 time: 0.0881s
+41
+Epoch: 0574 loss_train: 0.3472 acc_train: 0.9750 loss_val: 0.8028 acc_val: 0.7360 time: 0.0834s
+42
+Epoch: 0575 loss_train: 0.3483 acc_train: 0.9667 loss_val: 0.8012 acc_val: 0.7360 time: 0.1153s
+43
+Epoch: 0576 loss_train: 0.3612 acc_train: 0.9250 loss_val: 0.8003 acc_val: 0.7360 time: 0.0963s
+44
+Epoch: 0577 loss_train: 0.3234 acc_train: 0.9500 loss_val: 0.8000 acc_val: 0.7360 time: 0.0828s
+45
+Epoch: 0578 loss_train: 0.3452 acc_train: 0.9667 loss_val: 0.8014 acc_val: 0.7400 time: 0.0829s
+46
+Epoch: 0579 loss_train: 0.3452 acc_train: 0.9667 loss_val: 0.8028 acc_val: 0.7420 time: 0.0803s
+47
+Epoch: 0580 loss_train: 0.3600 acc_train: 0.9583 loss_val: 0.8049 acc_val: 0.7400 time: 0.0810s
+48
+Epoch: 0581 loss_train: 0.3454 acc_train: 0.9833 loss_val: 0.8056 acc_val: 0.7400 time: 0.1044s
+49
+Epoch: 0582 loss_train: 0.3438 acc_train: 0.9500 loss_val: 0.8049 acc_val: 0.7400 time: 0.0850s
+50
+Epoch: 0583 loss_train: 0.3165 acc_train: 0.9833 loss_val: 0.8019 acc_val: 0.7380 time: 0.0855s
+51
+Epoch: 0584 loss_train: 0.3564 acc_train: 0.9583 loss_val: 0.7989 acc_val: 0.7400 time: 0.0970s
+52
+Epoch: 0585 loss_train: 0.3348 acc_train: 0.9750 loss_val: 0.7985 acc_val: 0.7400 time: 0.0826s
+53
+Epoch: 0586 loss_train: 0.3525 acc_train: 0.9667 loss_val: 0.8005 acc_val: 0.7380 time: 0.0905s
+54
+Epoch: 0587 loss_train: 0.3818 acc_train: 0.9583 loss_val: 0.7997 acc_val: 0.7440 time: 0.0834s
+55
+Epoch: 0588 loss_train: 0.3445 acc_train: 0.9833 loss_val: 0.8007 acc_val: 0.7380 time: 0.0958s
+56
+Epoch: 0589 loss_train: 0.3726 acc_train: 0.9500 loss_val: 0.8028 acc_val: 0.7340 time: 0.0819s
+57
+Epoch: 0590 loss_train: 0.3664 acc_train: 0.9500 loss_val: 0.8042 acc_val: 0.7340 time: 0.0761s
+58
+Epoch: 0591 loss_train: 0.3326 acc_train: 0.9667 loss_val: 0.8048 acc_val: 0.7360 time: 0.0831s
+59
+Epoch: 0592 loss_train: 0.3205 acc_train: 0.9750 loss_val: 0.8052 acc_val: 0.7420 time: 0.0754s
+60
+Epoch: 0593 loss_train: 0.3534 acc_train: 0.9750 loss_val: 0.8071 acc_val: 0.7420 time: 0.0943s
+61
+Epoch: 0594 loss_train: 0.3472 acc_train: 0.9667 loss_val: 0.8075 acc_val: 0.7380 time: 0.0848s
+62
+Epoch: 0595 loss_train: 0.3315 acc_train: 0.9417 loss_val: 0.8095 acc_val: 0.7380 time: 0.0922s
+63
+Epoch: 0596 loss_train: 0.3740 acc_train: 0.9667 loss_val: 0.8094 acc_val: 0.7380 time: 0.0915s
+64
+Epoch: 0597 loss_train: 0.3360 acc_train: 0.9750 loss_val: 0.8072 acc_val: 0.7360 time: 0.0982s
+65
+Epoch: 0598 loss_train: 0.3557 acc_train: 0.9833 loss_val: 0.8043 acc_val: 0.7400 time: 0.0994s
+66
+Epoch: 0599 loss_train: 0.3299 acc_train: 0.9667 loss_val: 0.8027 acc_val: 0.7420 time: 0.0801s
+67
+Epoch: 0600 loss_train: 0.3593 acc_train: 0.9417 loss_val: 0.7999 acc_val: 0.7400 time: 0.0758s
+68
+Epoch: 0601 loss_train: 0.3404 acc_train: 0.9583 loss_val: 0.7988 acc_val: 0.7400 time: 0.0955s
+69
+Epoch: 0602 loss_train: 0.3610 acc_train: 0.9917 loss_val: 0.7990 acc_val: 0.7400 time: 0.0831s
+70
+Epoch: 0603 loss_train: 0.3484 acc_train: 0.9417 loss_val: 0.7995 acc_val: 0.7340 time: 0.0742s
+71
+Epoch: 0604 loss_train: 0.3215 acc_train: 0.9500 loss_val: 0.8021 acc_val: 0.7340 time: 0.0766s
+72
+Epoch: 0605 loss_train: 0.3469 acc_train: 0.9417 loss_val: 0.8065 acc_val: 0.7360 time: 0.0795s
+73
+Epoch: 0606 loss_train: 0.3477 acc_train: 0.9833 loss_val: 0.8069 acc_val: 0.7360 time: 0.0803s
+74
+Epoch: 0607 loss_train: 0.3305 acc_train: 0.9667 loss_val: 0.8055 acc_val: 0.7380 time: 0.0813s
+75
+Epoch: 0608 loss_train: 0.3906 acc_train: 0.9417 loss_val: 0.8025 acc_val: 0.7400 time: 0.0749s
+76
+Epoch: 0609 loss_train: 0.3315 acc_train: 0.9500 loss_val: 0.8001 acc_val: 0.7380 time: 0.0867s
+77
+Epoch: 0610 loss_train: 0.3346 acc_train: 0.9667 loss_val: 0.7983 acc_val: 0.7380 time: 0.0879s
+78
+Epoch: 0611 loss_train: 0.3309 acc_train: 0.9667 loss_val: 0.7972 acc_val: 0.7380 time: 0.0793s
+79
+Epoch: 0612 loss_train: 0.3306 acc_train: 0.9667 loss_val: 0.7957 acc_val: 0.7420 time: 0.0771s
+80
+Epoch: 0613 loss_train: 0.3396 acc_train: 0.9833 loss_val: 0.7968 acc_val: 0.7400 time: 0.0812s
+0
+Epoch: 0614 loss_train: 0.3766 acc_train: 0.9583 loss_val: 0.7987 acc_val: 0.7420 time: 0.0757s
+1
+Epoch: 0615 loss_train: 0.3362 acc_train: 0.9667 loss_val: 0.8024 acc_val: 0.7440 time: 0.0872s
+2
+Epoch: 0616 loss_train: 0.3292 acc_train: 0.9500 loss_val: 0.8051 acc_val: 0.7440 time: 0.0907s
+3
+Epoch: 0617 loss_train: 0.3533 acc_train: 0.9167 loss_val: 0.8060 acc_val: 0.7440 time: 0.1082s
+4
+Epoch: 0618 loss_train: 0.3343 acc_train: 0.9917 loss_val: 0.8048 acc_val: 0.7420 time: 0.1023s
+5
+Epoch: 0619 loss_train: 0.3306 acc_train: 0.9750 loss_val: 0.8041 acc_val: 0.7400 time: 0.0806s
+6
+Epoch: 0620 loss_train: 0.3417 acc_train: 0.9667 loss_val: 0.8034 acc_val: 0.7380 time: 0.0849s
+7
+Epoch: 0621 loss_train: 0.3298 acc_train: 0.9583 loss_val: 0.8026 acc_val: 0.7400 time: 0.0841s
+8
+Epoch: 0622 loss_train: 0.3457 acc_train: 0.9667 loss_val: 0.8018 acc_val: 0.7400 time: 0.0860s
+9
+Epoch: 0623 loss_train: 0.3549 acc_train: 0.9750 loss_val: 0.8008 acc_val: 0.7320 time: 0.0859s
+10
+Epoch: 0624 loss_train: 0.3666 acc_train: 0.9583 loss_val: 0.8014 acc_val: 0.7380 time: 0.0963s
+11
+Epoch: 0625 loss_train: 0.3286 acc_train: 0.9833 loss_val: 0.8022 acc_val: 0.7380 time: 0.0976s
+12
+Epoch: 0626 loss_train: 0.3584 acc_train: 0.9500 loss_val: 0.8023 acc_val: 0.7420 time: 0.0829s
+13
+Epoch: 0627 loss_train: 0.3352 acc_train: 0.9833 loss_val: 0.8012 acc_val: 0.7420 time: 0.1120s
+14
+Epoch: 0628 loss_train: 0.3722 acc_train: 0.9167 loss_val: 0.8004 acc_val: 0.7400 time: 0.0864s
+15
+Epoch: 0629 loss_train: 0.3328 acc_train: 0.9583 loss_val: 0.8002 acc_val: 0.7400 time: 0.1122s
+16
+Epoch: 0630 loss_train: 0.3373 acc_train: 0.9750 loss_val: 0.7996 acc_val: 0.7400 time: 0.0975s
+17
+Epoch: 0631 loss_train: 0.2989 acc_train: 0.9833 loss_val: 0.8002 acc_val: 0.7420 time: 0.0841s
+18
+Epoch: 0632 loss_train: 0.3534 acc_train: 0.9333 loss_val: 0.8021 acc_val: 0.7380 time: 0.0824s
+19
+Epoch: 0633 loss_train: 0.3551 acc_train: 0.9583 loss_val: 0.8032 acc_val: 0.7360 time: 0.1075s
+20
+Epoch: 0634 loss_train: 0.3343 acc_train: 0.9750 loss_val: 0.8037 acc_val: 0.7380 time: 0.0799s
+21
+Epoch: 0635 loss_train: 0.3496 acc_train: 0.9667 loss_val: 0.8050 acc_val: 0.7380 time: 0.0790s
+22
+Epoch: 0636 loss_train: 0.3342 acc_train: 0.9667 loss_val: 0.8059 acc_val: 0.7380 time: 0.0736s
+23
+Epoch: 0637 loss_train: 0.3437 acc_train: 0.9667 loss_val: 0.8084 acc_val: 0.7420 time: 0.0769s
+24
+Epoch: 0638 loss_train: 0.3321 acc_train: 0.9500 loss_val: 0.8088 acc_val: 0.7340 time: 0.1076s
+25
+Epoch: 0639 loss_train: 0.3399 acc_train: 0.9083 loss_val: 0.8091 acc_val: 0.7340 time: 0.0864s
+26
+Epoch: 0640 loss_train: 0.3455 acc_train: 0.9667 loss_val: 0.8064 acc_val: 0.7340 time: 0.0886s
+27
+Epoch: 0641 loss_train: 0.3320 acc_train: 0.9833 loss_val: 0.8016 acc_val: 0.7440 time: 0.0803s
+28
+Epoch: 0642 loss_train: 0.3306 acc_train: 0.9667 loss_val: 0.7982 acc_val: 0.7400 time: 0.0854s
+29
+Epoch: 0643 loss_train: 0.3646 acc_train: 0.9750 loss_val: 0.7976 acc_val: 0.7400 time: 0.0733s
+30
+Epoch: 0644 loss_train: 0.3225 acc_train: 0.9583 loss_val: 0.7986 acc_val: 0.7400 time: 0.0789s
+31
+Epoch: 0645 loss_train: 0.3530 acc_train: 0.9500 loss_val: 0.8008 acc_val: 0.7400 time: 0.0902s
+32
+Epoch: 0646 loss_train: 0.3118 acc_train: 0.9833 loss_val: 0.8030 acc_val: 0.7380 time: 0.1014s
+33
+Epoch: 0647 loss_train: 0.3418 acc_train: 0.9750 loss_val: 0.8047 acc_val: 0.7400 time: 0.0975s
+34
+Epoch: 0648 loss_train: 0.3596 acc_train: 0.9250 loss_val: 0.8045 acc_val: 0.7400 time: 0.1073s
+35
+Epoch: 0649 loss_train: 0.3663 acc_train: 0.9667 loss_val: 0.8044 acc_val: 0.7420 time: 0.1023s
+36
+Epoch: 0650 loss_train: 0.3281 acc_train: 0.9833 loss_val: 0.8049 acc_val: 0.7380 time: 0.0870s
+37
+Epoch: 0651 loss_train: 0.3631 acc_train: 0.9417 loss_val: 0.8039 acc_val: 0.7400 time: 0.0981s
+38
+Epoch: 0652 loss_train: 0.3391 acc_train: 0.9833 loss_val: 0.8018 acc_val: 0.7380 time: 0.1083s
+39
+Epoch: 0653 loss_train: 0.3274 acc_train: 0.9583 loss_val: 0.7996 acc_val: 0.7380 time: 0.1019s
+40
+Epoch: 0654 loss_train: 0.3772 acc_train: 0.9333 loss_val: 0.7976 acc_val: 0.7380 time: 0.0884s
+41
+Epoch: 0655 loss_train: 0.3397 acc_train: 0.9500 loss_val: 0.7964 acc_val: 0.7420 time: 0.0911s
+42
+Epoch: 0656 loss_train: 0.3582 acc_train: 0.9333 loss_val: 0.7961 acc_val: 0.7460 time: 0.0980s
+43
+Epoch: 0657 loss_train: 0.3416 acc_train: 0.9417 loss_val: 0.7971 acc_val: 0.7440 time: 0.0821s
+44
+Epoch: 0658 loss_train: 0.3359 acc_train: 0.9667 loss_val: 0.8000 acc_val: 0.7460 time: 0.0757s
+45
+Epoch: 0659 loss_train: 0.3931 acc_train: 0.9500 loss_val: 0.8031 acc_val: 0.7380 time: 0.0872s
+46
+Epoch: 0660 loss_train: 0.3551 acc_train: 0.9750 loss_val: 0.8026 acc_val: 0.7420 time: 0.0917s
+47
+Epoch: 0661 loss_train: 0.3617 acc_train: 0.9833 loss_val: 0.8000 acc_val: 0.7380 time: 0.0914s
+48
+Epoch: 0662 loss_train: 0.3641 acc_train: 0.9667 loss_val: 0.7956 acc_val: 0.7380 time: 0.0932s
+49
+Epoch: 0663 loss_train: 0.3448 acc_train: 0.9917 loss_val: 0.7931 acc_val: 0.7400 time: 0.0823s
+0
+Epoch: 0664 loss_train: 0.3255 acc_train: 0.9583 loss_val: 0.7918 acc_val: 0.7380 time: 0.0816s
+0
+Epoch: 0665 loss_train: 0.3510 acc_train: 0.9583 loss_val: 0.7933 acc_val: 0.7420 time: 0.0806s
+0
+Epoch: 0666 loss_train: 0.3351 acc_train: 0.9417 loss_val: 0.7947 acc_val: 0.7420 time: 0.0812s
+1
+Epoch: 0667 loss_train: 0.3411 acc_train: 0.9500 loss_val: 0.7976 acc_val: 0.7400 time: 0.0838s
+2
+Epoch: 0668 loss_train: 0.3425 acc_train: 0.9583 loss_val: 0.8017 acc_val: 0.7440 time: 0.0822s
+3
+Epoch: 0669 loss_train: 0.3683 acc_train: 0.9333 loss_val: 0.8034 acc_val: 0.7420 time: 0.0798s
+4
+Epoch: 0670 loss_train: 0.3335 acc_train: 0.9917 loss_val: 0.8021 acc_val: 0.7400 time: 0.0799s
+5
+Epoch: 0671 loss_train: 0.3258 acc_train: 0.9917 loss_val: 0.8007 acc_val: 0.7380 time: 0.0913s
+6
+Epoch: 0672 loss_train: 0.3521 acc_train: 0.9667 loss_val: 0.8011 acc_val: 0.7380 time: 0.1008s
+7
+Epoch: 0673 loss_train: 0.3389 acc_train: 0.9833 loss_val: 0.8004 acc_val: 0.7380 time: 0.1095s
+8
+Epoch: 0674 loss_train: 0.3445 acc_train: 0.9583 loss_val: 0.7990 acc_val: 0.7380 time: 0.0827s
+9
+Epoch: 0675 loss_train: 0.3534 acc_train: 0.9500 loss_val: 0.7994 acc_val: 0.7380 time: 0.1029s
+10
+Epoch: 0676 loss_train: 0.3657 acc_train: 0.9583 loss_val: 0.8005 acc_val: 0.7440 time: 0.1102s
+11
+Epoch: 0677 loss_train: 0.3564 acc_train: 0.9833 loss_val: 0.8020 acc_val: 0.7460 time: 0.1050s
+12
+Epoch: 0678 loss_train: 0.3449 acc_train: 0.9500 loss_val: 0.8035 acc_val: 0.7440 time: 0.0945s
+13
+Epoch: 0679 loss_train: 0.3508 acc_train: 0.9500 loss_val: 0.8039 acc_val: 0.7420 time: 0.0944s
+14
+Epoch: 0680 loss_train: 0.3381 acc_train: 0.9583 loss_val: 0.8038 acc_val: 0.7420 time: 0.0979s
+15
+Epoch: 0681 loss_train: 0.3305 acc_train: 0.9750 loss_val: 0.8038 acc_val: 0.7340 time: 0.0931s
+16
+Epoch: 0682 loss_train: 0.3459 acc_train: 0.9833 loss_val: 0.8030 acc_val: 0.7340 time: 0.0748s
+17
+Epoch: 0683 loss_train: 0.3464 acc_train: 0.9500 loss_val: 0.8032 acc_val: 0.7360 time: 0.1018s
+18
+Epoch: 0684 loss_train: 0.3422 acc_train: 0.9583 loss_val: 0.8019 acc_val: 0.7380 time: 0.1000s
+19
+Epoch: 0685 loss_train: 0.3513 acc_train: 0.9583 loss_val: 0.8009 acc_val: 0.7380 time: 0.1011s
+20
+Epoch: 0686 loss_train: 0.3268 acc_train: 0.9500 loss_val: 0.8000 acc_val: 0.7360 time: 0.0937s
+21
+Epoch: 0687 loss_train: 0.3535 acc_train: 0.9750 loss_val: 0.8000 acc_val: 0.7380 time: 0.0830s
+22
+Epoch: 0688 loss_train: 0.3424 acc_train: 0.9583 loss_val: 0.8015 acc_val: 0.7380 time: 0.1005s
+23
+Epoch: 0689 loss_train: 0.3293 acc_train: 0.9583 loss_val: 0.8027 acc_val: 0.7360 time: 0.1001s
+24
+Epoch: 0690 loss_train: 0.3301 acc_train: 0.9750 loss_val: 0.8043 acc_val: 0.7360 time: 0.0943s
+25
+Epoch: 0691 loss_train: 0.3461 acc_train: 0.9417 loss_val: 0.8026 acc_val: 0.7380 time: 0.0810s
+26
+Epoch: 0692 loss_train: 0.3579 acc_train: 0.9500 loss_val: 0.8028 acc_val: 0.7380 time: 0.0808s
+27
+Epoch: 0693 loss_train: 0.3451 acc_train: 0.9333 loss_val: 0.8030 acc_val: 0.7380 time: 0.0920s
+28
+Epoch: 0694 loss_train: 0.3631 acc_train: 0.9917 loss_val: 0.8023 acc_val: 0.7400 time: 0.0864s
+29
+Epoch: 0695 loss_train: 0.3360 acc_train: 0.9833 loss_val: 0.8025 acc_val: 0.7400 time: 0.0812s
+30
+Epoch: 0696 loss_train: 0.3289 acc_train: 0.9667 loss_val: 0.8039 acc_val: 0.7400 time: 0.1018s
+31
+Epoch: 0697 loss_train: 0.3691 acc_train: 0.9417 loss_val: 0.8023 acc_val: 0.7420 time: 0.0991s
+32
+Epoch: 0698 loss_train: 0.3511 acc_train: 0.9500 loss_val: 0.8003 acc_val: 0.7420 time: 0.1016s
+33
+Epoch: 0699 loss_train: 0.3292 acc_train: 0.9583 loss_val: 0.7995 acc_val: 0.7420 time: 0.0785s
+34
+Epoch: 0700 loss_train: 0.3453 acc_train: 0.9583 loss_val: 0.8010 acc_val: 0.7360 time: 0.0996s
+35
+Epoch: 0701 loss_train: 0.3349 acc_train: 0.9917 loss_val: 0.8039 acc_val: 0.7380 time: 0.0989s
+36
+Epoch: 0702 loss_train: 0.3545 acc_train: 0.9750 loss_val: 0.8073 acc_val: 0.7360 time: 0.0987s
+37
+Epoch: 0703 loss_train: 0.3409 acc_train: 0.9583 loss_val: 0.8093 acc_val: 0.7400 time: 0.1091s
+38
+Epoch: 0704 loss_train: 0.3488 acc_train: 0.9750 loss_val: 0.8085 acc_val: 0.7400 time: 0.0789s
+39
+Epoch: 0705 loss_train: 0.3277 acc_train: 0.9583 loss_val: 0.8047 acc_val: 0.7420 time: 0.0774s
+40
+Epoch: 0706 loss_train: 0.3414 acc_train: 0.9583 loss_val: 0.8012 acc_val: 0.7440 time: 0.0723s
+41
+Epoch: 0707 loss_train: 0.3181 acc_train: 0.9667 loss_val: 0.7992 acc_val: 0.7440 time: 0.0878s
+42
+Epoch: 0708 loss_train: 0.3174 acc_train: 0.9417 loss_val: 0.7990 acc_val: 0.7400 time: 0.1103s
+43
+Epoch: 0709 loss_train: 0.3494 acc_train: 0.9750 loss_val: 0.7990 acc_val: 0.7440 time: 0.1007s
+44
+Epoch: 0710 loss_train: 0.3422 acc_train: 0.9583 loss_val: 0.8002 acc_val: 0.7420 time: 0.0964s
+45
+Epoch: 0711 loss_train: 0.3525 acc_train: 0.9583 loss_val: 0.8029 acc_val: 0.7380 time: 0.0784s
+46
+Epoch: 0712 loss_train: 0.3336 acc_train: 0.9667 loss_val: 0.8047 acc_val: 0.7360 time: 0.0889s
+47
+Epoch: 0713 loss_train: 0.3473 acc_train: 0.9417 loss_val: 0.8064 acc_val: 0.7340 time: 0.0741s
+48
+Epoch: 0714 loss_train: 0.3561 acc_train: 0.9917 loss_val: 0.8076 acc_val: 0.7320 time: 0.0739s
+49
+Epoch: 0715 loss_train: 0.3271 acc_train: 0.9667 loss_val: 0.8059 acc_val: 0.7340 time: 0.0733s
+50
+Epoch: 0716 loss_train: 0.3434 acc_train: 0.9667 loss_val: 0.8040 acc_val: 0.7340 time: 0.0726s
+51
+Epoch: 0717 loss_train: 0.3486 acc_train: 0.9667 loss_val: 0.8028 acc_val: 0.7360 time: 0.0727s
+52
+Epoch: 0718 loss_train: 0.3411 acc_train: 0.9667 loss_val: 0.8025 acc_val: 0.7360 time: 0.0741s
+53
+Epoch: 0719 loss_train: 0.3510 acc_train: 0.9500 loss_val: 0.8045 acc_val: 0.7380 time: 0.0738s
+54
+Epoch: 0720 loss_train: 0.3235 acc_train: 0.9333 loss_val: 0.8060 acc_val: 0.7420 time: 0.0739s
+55
+Epoch: 0721 loss_train: 0.3146 acc_train: 0.9833 loss_val: 0.8063 acc_val: 0.7400 time: 0.0972s
+56
+Epoch: 0722 loss_train: 0.3376 acc_train: 0.9333 loss_val: 0.8048 acc_val: 0.7360 time: 0.0826s
+57
+Epoch: 0723 loss_train: 0.3349 acc_train: 0.9500 loss_val: 0.8030 acc_val: 0.7360 time: 0.0753s
+58
+Epoch: 0724 loss_train: 0.3488 acc_train: 0.9667 loss_val: 0.8014 acc_val: 0.7360 time: 0.0986s
+59
+Epoch: 0725 loss_train: 0.3555 acc_train: 0.9750 loss_val: 0.7993 acc_val: 0.7360 time: 0.0823s
+60
+Epoch: 0726 loss_train: 0.3350 acc_train: 0.9667 loss_val: 0.8003 acc_val: 0.7340 time: 0.0825s
+61
+Epoch: 0727 loss_train: 0.3162 acc_train: 0.9833 loss_val: 0.8027 acc_val: 0.7340 time: 0.0855s
+62
+Epoch: 0728 loss_train: 0.3431 acc_train: 0.9833 loss_val: 0.8044 acc_val: 0.7320 time: 0.1159s
+63
+Epoch: 0729 loss_train: 0.3324 acc_train: 0.9667 loss_val: 0.8056 acc_val: 0.7340 time: 0.0969s
+64
+Epoch: 0730 loss_train: 0.3388 acc_train: 0.9750 loss_val: 0.8051 acc_val: 0.7340 time: 0.0757s
+65
+Epoch: 0731 loss_train: 0.3641 acc_train: 0.9583 loss_val: 0.8026 acc_val: 0.7340 time: 0.0878s
+66
+Epoch: 0732 loss_train: 0.3297 acc_train: 0.9833 loss_val: 0.8014 acc_val: 0.7340 time: 0.1024s
+67
+Epoch: 0733 loss_train: 0.3432 acc_train: 0.9667 loss_val: 0.8023 acc_val: 0.7340 time: 0.0746s
+68
+Epoch: 0734 loss_train: 0.3477 acc_train: 0.9583 loss_val: 0.8030 acc_val: 0.7340 time: 0.0864s
+69
+Epoch: 0735 loss_train: 0.3381 acc_train: 0.9417 loss_val: 0.8041 acc_val: 0.7320 time: 0.0962s
+70
+Epoch: 0736 loss_train: 0.3375 acc_train: 0.9667 loss_val: 0.8072 acc_val: 0.7340 time: 0.0978s
+71
+Epoch: 0737 loss_train: 0.3521 acc_train: 0.9917 loss_val: 0.8100 acc_val: 0.7340 time: 0.0822s
+72
+Epoch: 0738 loss_train: 0.3253 acc_train: 0.9667 loss_val: 0.8109 acc_val: 0.7340 time: 0.0828s
+73
+Epoch: 0739 loss_train: 0.3419 acc_train: 0.9750 loss_val: 0.8079 acc_val: 0.7340 time: 0.0802s
+74
+Epoch: 0740 loss_train: 0.3167 acc_train: 0.9750 loss_val: 0.8040 acc_val: 0.7340 time: 0.0781s
+75
+Epoch: 0741 loss_train: 0.3343 acc_train: 0.9250 loss_val: 0.8013 acc_val: 0.7360 time: 0.0872s
+76
+Epoch: 0742 loss_train: 0.3584 acc_train: 0.9750 loss_val: 0.8003 acc_val: 0.7380 time: 0.0939s
+77
+Epoch: 0743 loss_train: 0.3200 acc_train: 0.9667 loss_val: 0.8003 acc_val: 0.7360 time: 0.0938s
+78
+Epoch: 0744 loss_train: 0.3359 acc_train: 0.9917 loss_val: 0.8018 acc_val: 0.7360 time: 0.0836s
+79
+Epoch: 0745 loss_train: 0.3401 acc_train: 0.9583 loss_val: 0.8039 acc_val: 0.7360 time: 0.0815s
+80
+Epoch: 0746 loss_train: 0.3340 acc_train: 0.9917 loss_val: 0.8070 acc_val: 0.7340 time: 0.0805s
+81
+Epoch: 0747 loss_train: 0.3410 acc_train: 0.9667 loss_val: 0.8101 acc_val: 0.7340 time: 0.0808s
+82
+Epoch: 0748 loss_train: 0.3112 acc_train: 0.9583 loss_val: 0.8122 acc_val: 0.7320 time: 0.0815s
+83
+Epoch: 0749 loss_train: 0.3343 acc_train: 0.9667 loss_val: 0.8109 acc_val: 0.7340 time: 0.0876s
+84
+Epoch: 0750 loss_train: 0.3382 acc_train: 0.9833 loss_val: 0.8074 acc_val: 0.7340 time: 0.0985s
+85
+Epoch: 0751 loss_train: 0.3317 acc_train: 0.9583 loss_val: 0.8025 acc_val: 0.7360 time: 0.0818s
+86
+Epoch: 0752 loss_train: 0.3305 acc_train: 0.9833 loss_val: 0.7987 acc_val: 0.7360 time: 0.0830s
+87
+Epoch: 0753 loss_train: 0.3589 acc_train: 0.9667 loss_val: 0.7986 acc_val: 0.7380 time: 0.0817s
+88
+Epoch: 0754 loss_train: 0.3378 acc_train: 0.9667 loss_val: 0.8011 acc_val: 0.7400 time: 0.0849s
+89
+Epoch: 0755 loss_train: 0.3079 acc_train: 0.9833 loss_val: 0.8051 acc_val: 0.7380 time: 0.0940s
+90
+Epoch: 0756 loss_train: 0.3564 acc_train: 0.9667 loss_val: 0.8086 acc_val: 0.7340 time: 0.0895s
+91
+Epoch: 0757 loss_train: 0.3351 acc_train: 0.9417 loss_val: 0.8107 acc_val: 0.7340 time: 0.0992s
+92
+Epoch: 0758 loss_train: 0.3497 acc_train: 0.9750 loss_val: 0.8104 acc_val: 0.7340 time: 0.0930s
+93
+Epoch: 0759 loss_train: 0.3254 acc_train: 0.9667 loss_val: 0.8078 acc_val: 0.7360 time: 0.0786s
+94
+Epoch: 0760 loss_train: 0.3352 acc_train: 0.9000 loss_val: 0.8063 acc_val: 0.7400 time: 0.0825s
+95
+Epoch: 0761 loss_train: 0.3188 acc_train: 0.9750 loss_val: 0.8055 acc_val: 0.7380 time: 0.0805s
+96
+Epoch: 0762 loss_train: 0.3340 acc_train: 0.9667 loss_val: 0.8050 acc_val: 0.7360 time: 0.0807s
+97
+Epoch: 0763 loss_train: 0.3467 acc_train: 0.9333 loss_val: 0.8046 acc_val: 0.7340 time: 0.0814s
+98
+Epoch: 0764 loss_train: 0.3576 acc_train: 0.9750 loss_val: 0.8069 acc_val: 0.7340 time: 0.0812s
+99
+Early stop! Min loss:  0.7918296456336975 , Max accuracy:  0.75
+Early stop model validation loss:  0.7918296456336975 , accuracy:  0.738
+Optimization Finished!
+Total time elapsed: 65.3401s
+Loading 663th epoch
+Test set results: loss= 0.7895 accuracy= 0.7470
